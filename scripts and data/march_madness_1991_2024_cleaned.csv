@@ -1,0 +1,2113 @@
+seed,team,conference,wins,losses,year
+1,North Carolina,ACC,25,5,1991
+2,Syracuse,Big East,26,5,1991
+3,Oklahoma State,Big Eight,22,7,1991
+4,UCLA,Pac-10,23,8,1991
+5,Mississippi State,SEC,20,8,1991
+6,NC State,ACC,19,10,1991
+7,Purdue,Big Ten,17,11,1991
+8,Princeton,Ivy League,24,2,1991
+9,Villanova,Big East,16,14,1991
+10,Temple,Atlantic 10,21,9,1991
+11,Southern Miss,Metro,21,7,1991
+12,Eastern Michigan,MAC,24,6,1991
+13,Penn State,Atlantic 10,20,10,1991
+14,New Mexico,WAC,20,9,1991
+15,Richmond,CAA,21,9,1991
+16,Northeastern,NAC,22,10,1991
+1,Ohio State,Big Ten,25,3,1991
+2,Duke,ACC,26,7,1991
+3,Nebraska,Big Eight,26,7,1991
+4,St. John's,Big East,20,8,1991
+5,Texas,SWC,22,8,1991
+6,LSU,SEC,20,9,1991
+7,Iowa,Big Ten,20,10,1991
+8,Georgia Tech,ACC,16,12,1991
+9,DePaul,Independent,20,8,1991
+10,East Tennessee State,Southern,28,4,1991
+11,Connecticut,Big East,18,10,1991
+12,Saint Peter's,MAAC,24,6,1991
+13,Northern Illinois,Mid-Continent,25,5,1991
+14,Xavier,MCC,21,9,1991
+15,Northeast Louisiana,Southland,25,7,1991
+16,Towson State,East Coast,19,10,1991
+1,Arkansas,SWC,31,3,1991
+2,Indiana,Big Ten,27,4,1991
+3,Kansas,Big Eight,22,7,1991
+4,Alabama,SEC,21,9,1991
+5,Wake Forest,ACC,18,10,1991
+6,Pittsburgh,Big East,20,11,1991
+7,Florida State,Metro,20,10,1991
+8,Arizona State,Pac-10,19,9,1991
+9,Rutgers,Atlantic 10,19,9,1991
+10,USC,Pac-10,19,9,1991
+11,Georgia,SEC,17,12,1991
+12,Louisiana Tech,American South,21,9,1991
+13,Murray State,Ohio Valley,24,8,1991
+14,New Orleans,American South,23,7,1991
+15,Coastal Carolina,Big South,24,7,1991
+16,Georgia State,TAAC,16,14,1991
+1,UNLV,Big West,30,0,1991
+2,Arizona,Pac-10,26,6,1991
+3,Seton Hall,Big East,22,8,1991
+4,Utah,WAC,28,3,1991
+5,Michigan State,Big Ten,18,10,1991
+6,New Mexico State,Big West,23,5,1991
+7,Virginia,ACC,21,11,1991
+8,Georgetown,Big East,18,12,1991
+9,Vanderbilt,SEC,17,12,1991
+10,BYU,WAC,20,12,1991
+11,Creighton,Missouri Valley,23,7,1991
+12,Green Bay,Mid-Continent,24,6,1991
+13,South Alabama,Sun Belt,22,8,1991
+14,Pepperdine,West Coast,22,8,1991
+15,Saint Francis (PA),NEC,24,7,1991
+16,Montana,Big Sky,23,7,1991
+1,Duke,ACC,28,2,1992
+2,Kentucky,SEC,26,6,1992
+3,UMass,Atlantic 10,28,4,1992
+4,Seton Hall,Big East,21,8,1992
+5,Missouri,Big Eight,20,8,1992
+6,Syracuse,Big East,21,9,1992
+7,UNC Charlotte,Metro,23,8,1992
+8,Texas,SWC,23,11,1992
+9,Iowa,Big Ten,18,10,1992
+10,Iowa State,Big Eight,20,12,1992
+11,Princeton,Ivy League,22,5,1992
+12,West Virginia,Atlantic 10,20,11,1992
+13,La Salle,MAAC,20,10,1992
+14,Fordham,Patriot,18,12,1992
+15,Old Dominion,CAA,15,14,1992
+16,Campbell,Big South,19,11,1992
+1,Kansas,Big Eight,26,4,1992
+2,USC,Pac-10,23,5,1992
+3,Arkansas,SEC,25,7,1992
+4,Cincinnati,Great Midwest,25,4,1992
+5,Michigan State,Big Ten,21,7,1992
+6,Memphis State,Great Midwest,20,10,1992
+7,Georgia Tech,ACC,21,11,1992
+8,Evansville,MCC,24,5,1992
+9,UTEP,WAC,25,6,1992
+10,Houston,SWC,25,5,1992
+11,Pepperdine,West Coast,24,6,1992
+12,Southwest Missouri State,Missouri Valley,23,7,1992
+13,Delaware,NAC,27,3,1992
+14,Murray State,Ohio Valley,17,12,1992
+15,Northeast Louisiana,Southland,19,9,1992
+16,Howard,MEAC,17,13,1992
+1,UCLA,Pac-10,25,4,1992
+2,Indiana,Big Ten,23,6,1992
+3,Florida State,ACC,20,9,1992
+4,Oklahoma,Big Eight,21,8,1992
+5,DePaul,Great Midwest,20,8,1992
+6,Georgetown,Big East,21,9,1992
+7,LSU,SEC,20,9,1992
+8,Louisville,Metro,18,10,1992
+9,Wake Forest,ACC,17,11,1992
+10,BYU,WAC,25,6,1992
+11,South Florida,Metro,19,9,1992
+12,New Mexico State,Big West,23,7,1992
+13,Southwestern Louisiana,Sun Belt,20,10,1992
+14,Montana,Big Sky,27,3,1992
+15,Eastern Illinois,Mid-Continent,17,13,1992
+16,Robert Morris,NEC,19,11,1992
+1,Ohio State,Big Ten,23,5,1992
+2,Oklahoma State,Big Eight,26,7,1992
+3,Arizona,Pac-10,24,6,1992
+4,North Carolina,ACC,21,9,1992
+5,Alabama,SEC,25,8,1992
+6,Michigan,Big Ten,20,8,1992
+7,St. John's,Big East,19,10,1992
+8,Nebraska,Big Eight,19,9,1992
+9,Connecticut,Big East,19,9,1992
+10,Tulane,Metro,21,8,1992
+11,Temple,Atlantic 10,17,12,1992
+12,Stanford,Pac-10,18,10,1992
+13,Miami (OH),MAC,23,7,1992
+14,East Tennessee State,Southern,23,6,1992
+15,Georgia Southern,TAAC,25,5,1992
+16,Mississippi Valley State,SWAC,16,13,1992
+1,North Carolina,ACC,28,4,1993
+2,Cincinnati,Great Midwest,24,4,1993
+3,UMass,Atlantic 10,23,6,1993
+4,Arkansas,SEC,20,8,1993
+5,St. John's,Big East,18,10,1993
+6,Virginia,ACC,19,9,1993
+7,New Mexico State,Big West,25,7,1993
+8,Rhode Island,Atlantic 10,18,10,1993
+9,Purdue,Big Ten,18,9,1993
+10,Nebraska,Big Eight,20,10,1993
+11,Manhattan,MAAC,23,6,1993
+12,Texas Tech,Southwest,18,11,1993
+13,Holy Cross,Patriot,23,6,1993
+14,Penn,Ivy League,22,4,1993
+15,Coppin State,MEAC,22,7,1993
+16,East Carolina,CAA,13,16,1993
+1,Kentucky,SEC,26,3,1993
+2,Seton Hall,Big East,27,6,1993
+3,Florida State,ACC,22,9,1993
+4,Iowa,Big Ten,22,8,1993
+5,Wake Forest,ACC,19,8,1993
+6,Kansas State,Big Eight,19,10,1993
+7,Western Kentucky,Sun Belt,24,5,1993
+8,Utah,WAC,23,6,1993
+9,Pittsburgh,Big East,17,10,1993
+10,Memphis State,Great Midwest,20,11,1993
+11,Tulane,Metro,21,8,1993
+12,Chattanooga,Southern,26,6,1993
+13,Northeast Louisiana,Southland,26,4,1993
+14,Evansville,MCC,23,6,1993
+15,Tennessee State,Ohio Valley,19,9,1993
+16,Rider,Northeast,19,10,1993
+1,Indiana,Big Ten,28,3,1993
+2,Kansas,Big Eight,25,6,1993
+3,Duke,ACC,23,7,1993
+4,Louisville,Metro,20,8,1993
+5,Oklahoma State,Big Eight,19,8,1993
+6,California,Pac-10,19,8,1993
+7,BYU,WAC,24,8,1993
+8,New Orleans,Sun Belt,26,3,1993
+9,Xavier,MCC,23,5,1993
+10,SMU,Southwest,20,7,1993
+11,LSU,SEC,22,10,1993
+12,Marquette,Great Midwest,20,7,1993
+13,Delaware,NAC,22,7,1993
+14,Southern Illinois,Missouri Valley,23,9,1993
+15,Ball State,MAC,26,7,1993
+16,Wright State,Mid-Continent,20,9,1993
+1,Michigan,Big Ten,26,4,1993
+2,Arizona,Pac-10,24,3,1993
+3,Vanderbilt,SEC,26,5,1993
+4,Georgia Tech,ACC,19,10,1993
+5,New Mexico,WAC,24,6,1993
+6,Illinois,Big Ten,18,12,1993
+7,Temple,Atlantic 10,17,12,1993
+8,Iowa State,Big Eight,20,10,1993
+9,UCLA,Pac-10,21,10,1993
+10,Missouri,Big Eight,19,13,1993
+11,Long Beach State,Big West,22,9,1993
+12,George Washington,Atlantic 10,21,9,1993
+13,Southern,SWAC,20,9,1993
+14,Boise State,Big Sky,21,7,1993
+15,Santa Clara,West Coast,18,11,1993
+16,Coastal Carolina,Big South,22,9,1993
+1,North Carolina,ACC,27,6,1994
+2,Connecticut,Big East,27,4,1994
+3,Florida,SEC,25,7,1994
+4,Temple,Atlantic 10,22,7,1994
+5,Indiana,Big Ten,19,8,1994
+6,Nebraska,Big Eight,20,9,1994
+7,UAB,Great Midwest,22,7,1994
+8,Washington State,Pac-10,20,10,1994
+9,Boston College,Big East,20,10,1994
+10,George Washington,Atlantic 10,17,11,1994
+11,Penn,Ivy League,24,2,1994
+12,Ohio,MAC,25,7,1994
+13,Drexel,NAC,25,4,1994
+14,James Madison,CAA,20,9,1994
+15,Rider,NEC,21,8,1994
+16,Liberty,Big South,18,11,1994
+1,Arkansas,SEC,25,3,1994
+2,UMass,Atlantic 10,27,6,1994
+3,Michigan,Big Ten,21,7,1994
+4,Oklahoma State,Big Eight,23,9,1994
+5,UCLA,Pac-10,21,6,1994
+6,Texas,SWC,25,7,1994
+7,Saint Louis,Great Midwest,23,5,1994
+8,Illinois,Big Ten,17,10,1994
+9,Georgetown,Big East,18,11,1994
+10,Maryland,ACC,16,11,1994
+11,Western Kentucky,Sun Belt,20,10,1994
+12,Tulsa,Missouri Valley,21,7,1994
+13,New Mexico State,Big West,23,7,1994
+14,Pepperdine,WCC,19,10,1994
+15,Southwest Texas State,Southland,25,6,1994
+16,North Carolina A&T,MEAC,16,13,1994
+1,Purdue,Big Ten,26,4,1994
+2,Duke,ACC,23,5,1994
+3,Kentucky,SEC,26,6,1994
+4,Kansas,Big Eight,25,7,1994
+5,Wake Forest,ACC,20,11,1994
+6,Marquette,Great Midwest,22,8,1994
+7,Michigan State,Big Ten,19,11,1994
+8,Providence,Big East,20,9,1994
+9,Alabama,SEC,19,9,1994
+10,Seton Hall,Big East,17,12,1994
+11,Southwestern Louisiana,Sun Belt,22,7,1994
+12,College of Charleston,TAAC,24,3,1994
+13,Chattanooga,Southern,23,6,1994
+14,Tennessee State,Ohio Valley,19,11,1994
+15,Texas Southern,SWAC,19,10,1994
+16,UCF,TAAC,21,8,1994
+1,Missouri,Big Eight,25,3,1994
+2,Arizona,Pac-10,25,5,1994
+3,Louisville,Metro,26,5,1994
+4,Syracuse,Big East,21,6,1994
+5,California,Pac-10,22,7,1994
+6,Minnesota,Big Ten,20,11,1994
+7,Virginia,ACC,17,12,1994
+8,Cincinnati,Great Midwest,22,9,1994
+9,Wisconsin,Big Ten,17,10,1994
+10,New Mexico,WAC,23,7,1994
+11,Southern Illinois,Missouri Valley,23,6,1994
+12,UW–Green Bay,Mid-Continent,22,6,1994
+13,Hawaii,WAC,18,14,1994
+14,Boise State,Big Sky,17,12,1994
+15,Loyola (MD),MAAC,17,12,1994
+16,Navy,Patriot,17,12,1994
+1,Wake Forest,ACC,24,5,1995
+2,UMass,Atlantic 10,26,4,1995
+3,Villanova,Big East,25,7,1995
+4,Oklahoma State,Big Eight,23,9,1995
+5,Alabama,SEC,22,9,1995
+6,Tulsa,Missouri Valley,22,7,1995
+7,UNC Charlotte,Metro,19,8,1995
+8,Minnesota,Big Ten,19,11,1995
+9,Saint Louis,Great Midwest,22,7,1995
+10,Stanford,Pac-10,19,8,1995
+11,Illinois,Big Ten,19,11,1995
+12,Penn,Ivy League,22,5,1995
+13,Drexel,NAC,22,7,1995
+14,Old Dominion,CAA,20,11,1995
+15,Saint Peter's,MAAC,19,10,1995
+16,North Carolina A&T,MEAC,15,14,1995
+1,Kentucky,SEC,25,4,1995
+2,North Carolina,ACC,24,5,1995
+3,Michigan State,Big Ten,22,5,1995
+4,Oklahoma,Big Eight,23,8,1995
+5,Arizona State,Pac-10,22,8,1995
+6,Georgetown,Big East,19,9,1995
+7,Iowa State,Big Eight,22,10,1995
+8,BYU,WAC,22,9,1995
+9,Tulane,Metro,22,9,1995
+10,Florida,SEC,17,12,1995
+11,Xavier,MCC,23,4,1995
+12,Ball State,MAC,19,10,1995
+13,Manhattan,MAAC,25,4,1995
+14,Weber State,Big Sky,20,8,1995
+15,Murray State,Ohio Valley,21,8,1995
+16,Mount St. Mary's,NEC,17,12,1995
+1,UCLA,Pac-10,25,2,1995
+2,Connecticut,Big East,25,4,1995
+3,Maryland,ACC,24,7,1995
+4,Utah,WAC,27,5,1995
+5,Mississippi State,SEC,20,7,1995
+6,Oregon,Pac-10,19,8,1995
+7,Cincinnati,Great Midwest,21,11,1995
+8,Missouri,Big Eight,19,8,1995
+9,Indiana,Big Ten,19,11,1995
+10,Temple,Atlantic 10,19,10,1995
+11,Texas,SWC,22,6,1995
+12,Santa Clara,West Coast,21,6,1995
+13,Long Beach State,Big West,20,9,1995
+14,Gonzaga,West Coast,21,8,1995
+15,Chattanooga,Southern,19,10,1995
+16,FIU,TAAC,11,18,1995
+1,Kansas,Big Eight,23,5,1995
+2,Arkansas,SEC,27,6,1995
+3,Purdue,Big Ten,24,6,1995
+4,Virginia,ACC,22,8,1995
+5,Arizona,Pac-10,23,7,1995
+6,Memphis,Great Midwest,22,9,1995
+7,Syracuse,Big East,19,9,1995
+8,Western Kentucky,Sun Belt,26,3,1995
+9,Michigan,Big Ten,17,13,1995
+10,Southern Illinois,Missouri Valley,23,8,1995
+11,Louisville,Metro,19,13,1995
+12,Miami (OH),MAC,22,6,1995
+13,Nicholls State,Southland,24,5,1995
+14,Green Bay,MCC,22,7,1995
+15,Texas Southern,SWAC,22,6,1995
+16,Colgate,Patriot,17,12,1995
+1,UMass,Atlantic 10,31,1,1996
+2,Georgetown,Big East,26,7,1996
+3,Texas Tech,SWC,28,1,1996
+4,Marquette,Conference USA,22,7,1996
+5,Penn State,Big Ten,21,6,1996
+6,North Carolina,ACC,20,10,1996
+7,New Mexico,WAC,28,5,1996
+8,Bradley,Missouri Valley,22,7,1996
+9,Stanford,Pac-10,19,8,1996
+10,Kansas State,Big Eight,17,11,1996
+11,New Orleans,Sun Belt,21,8,1996
+12,Arkansas,SEC,18,12,1996
+13,Monmouth,NEC,20,9,1996
+14,Northern Illinois,MCC,20,9,1996
+15,Mississippi Valley State,SWAC,22,6,1996
+16,UCF,TAAC,11,18,1996
+1,Connecticut,Big East,30,2,1996
+2,Cincinnati,Conference USA,25,4,1996
+3,Georgia Tech,ACC,22,11,1996
+4,UCLA,Pac-10,23,7,1996
+5,Mississippi State,SEC,22,7,1996
+6,Indiana,Big Ten,19,11,1996
+7,Temple,Atlantic 10,19,12,1996
+8,Duke,ACC,18,12,1996
+9,Eastern Michigan,MAC,24,5,1996
+10,Oklahoma,Big Eight,17,12,1996
+11,Boston College,Big East,18,10,1996
+12,VCU,CAA,17,10,1996
+13,Princeton,Ivy League,21,6,1996
+14,Austin Peay,Ohio Valley,19,10,1996
+15,UNC Greensboro,Big South,20,9,1996
+16,Colgate,Patriot League,15,14,1996
+1,Kentucky,SEC,28,2,1996
+2,Wake Forest,ACC,26,6,1996
+3,Villanova,Big East,25,6,1996
+4,Utah,WAC,25,6,1996
+5,Iowa State,Big Eight,23,8,1996
+6,Louisville,Conference USA,20,11,1996
+7,Michigan,Big Ten,20,11,1996
+8,Green Bay,MCC,25,3,1996
+9,Virginia Tech,Atlantic 10,22,5,1996
+10,Texas,SWC,20,9,1996
+11,Tulsa,Missouri Valley,22,7,1996
+12,California,Pac-10,17,10,1996
+13,Canisius,MAAC,19,10,1996
+14,Portland,West Coast,19,10,1996
+15,Northeast Louisiana,Southland,16,13,1996
+16,San Jose State,Big West,13,16,1996
+1,Purdue,Big Ten,26,4,1996
+2,Kansas,Big Eight,25,5,1996
+3,Arizona,Pac-10,24,6,1996
+4,Syracuse,Big East,24,8,1996
+5,Memphis,Conference USA,22,7,1996
+6,Iowa,Big Ten,22,8,1996
+7,Maryland,ACC,17,12,1996
+8,Georgia,SEC,19,9,1996
+9,Clemson,ACC,18,10,1996
+10,Santa Clara,West Coast,19,8,1996
+11,George Washington,Atlantic 10,21,7,1996
+12,Drexel,NAC,26,3,1996
+13,Montana State,Big Sky,21,8,1996
+14,Valparaiso,Mid-Continent,23,7,1996
+15,South Carolina State,MEAC,22,7,1996
+16,Western Carolina,Southern,17,12,1996
+1,North Carolina,ACC,24,6,1997
+2,South Carolina,SEC,24,7,1997
+3,New Mexico,WAC,24,7,1997
+4,Villanova,Big East,23,9,1997
+5,California,Pac-10,21,8,1997
+6,Louisville,Conference USA,23,8,1997
+7,Wisconsin,Big Ten,18,9,1997
+8,Indiana,Big Ten,22,10,1997
+9,Colorado,Big 12,21,9,1997
+10,Texas,Big 12,16,11,1997
+11,UMass,Atlantic 10,19,13,1997
+12,Princeton,Ivy League,24,3,1997
+13,Long Island,NEC,21,8,1997
+14,Old Dominion,CAA,22,10,1997
+15,Coppin State,MEAC,21,8,1997
+16,Fairfield,MAAC,11,18,1997
+1,Minnesota,Big Ten,27,3,1997
+2,UCLA,Pac-10,21,7,1997
+3,Cincinnati,Conference USA,25,7,1997
+4,Clemson,ACC,21,9,1997
+5,Tulsa,WAC,23,9,1997
+6,Iowa State,Big 12,20,8,1997
+7,Xavier,Atlantic 10,22,5,1997
+8,Ole Miss,SEC,20,8,1997
+9,Temple,Atlantic 10,19,10,1997
+10,Vanderbilt,SEC,19,11,1997
+11,Illinois State,Missouri Valley,24,5,1997
+12,Boston University,America East,25,4,1997
+13,Miami (OH),MAC,21,8,1997
+14,Butler,MCC,23,9,1997
+15,Charleston Southern,Big South,17,12,1997
+16,Southwest Texas State,Southland,16,12,1997
+1,Kansas,Big 12,32,1,1997
+2,Duke,ACC,23,8,1997
+3,Georgia,SEC,24,8,1997
+4,Arizona,Pac-10,19,9,1997
+5,Maryland,ACC,21,10,1997
+6,Illinois,Big Ten,21,9,1997
+7,Marquette,Conference USA,22,8,1997
+8,Purdue,Big Ten,17,11,1997
+9,Rhode Island,Atlantic 10,20,9,1997
+10,Providence,Big East,21,11,1997
+11,USC,Pac-10,17,10,1997
+12,College of Charleston,TAAC,28,2,1997
+13,South Alabama,Sun Belt,23,6,1997
+14,Chattanooga,Southern,22,10,1997
+15,Murray State,Ohio Valley,20,9,1997
+16,Jackson State,SWAC,14,15,1997
+1,Kentucky,SEC,30,4,1997
+2,Utah,WAC,26,3,1997
+3,Wake Forest,ACC,23,6,1997
+4,Saint Joseph's,Atlantic 10,24,6,1997
+5,Boston College,Big East,21,8,1997
+6,Stanford,Pac-10,20,7,1997
+7,UNC Charlotte,Conference USA,21,8,1997
+8,Iowa,Big Ten,21,9,1997
+9,Virginia,ACC,19,10,1997
+10,Georgetown,Big East,20,9,1997
+11,Oklahoma,Big 12,19,7,1997
+12,Valparaiso,Mid-Continent,24,6,1997
+13,Pacific,Big West,23,5,1997
+14,Saint Mary's,West Coast,23,7,1997
+15,Navy,Patriot,20,8,1997
+16,Montana,Big Sky,21,10,1997
+1,North Carolina,ACC,30,3,1998
+2,Connecticut,Big East,29,4,1998
+3,South Carolina,SEC,22,6,1998
+4,Michigan State,Big Ten,20,7,1998
+5,Princeton,Ivy League,26,1,1998
+6,Xavier,Atlantic 10,22,7,1998
+7,Indiana,Big Ten,19,11,1998
+8,UNC Charlotte,Conference USA,19,10,1998
+9,UIC,MCC,22,5,1998
+10,Oklahoma,Big 12,22,10,1998
+11,Washington,Pac-10,18,9,1998
+12,UNLV,WAC,20,12,1998
+13,Eastern Michigan,MAC,20,9,1998
+14,Richmond,CAA,22,7,1998
+15,Fairleigh Dickinson,NEC,23,6,1998
+16,Navy,Patriot,19,10,1998
+1,Duke,ACC,29,3,1998
+2,Kentucky,SEC,29,4,1998
+3,Michigan,Big Ten,24,8,1998
+4,New Mexico,WAC,23,7,1998
+5,Syracuse,Big East,24,8,1998
+6,UCLA,Pac-10,22,8,1998
+7,UMass,Atlantic 10,21,10,1998
+8,Oklahoma State,Big 12,21,7,1998
+9,George Washington,Atlantic 10,24,8,1998
+10,Saint Louis,Conference USA,21,10,1998
+11,Miami (FL),Big East,18,9,1998
+12,Iona,MAAC,27,5,1998
+13,Butler,MCC,22,10,1998
+14,Davidson,Southern,20,9,1998
+15,South Carolina State,MEAC,22,7,1998
+16,Radford,Big South,20,9,1998
+1,Arizona,Pac-10,27,4,1998
+2,Cincinnati,Conference USA,26,5,1998
+3,Utah,WAC,25,3,1998
+4,Maryland,ACC,19,10,1998
+5,Illinois,Big Ten,22,9,1998
+6,Arkansas,SEC,23,8,1998
+7,Temple,Atlantic 10,21,8,1998
+8,Tennessee,SEC,20,8,1998
+9,Illinois State,Missouri Valley,24,5,1998
+10,West Virginia,Big East,22,8,1998
+11,Nebraska,Big 12,20,11,1998
+12,South Alabama,Sun Belt,21,6,1998
+13,Utah State,Big West,25,7,1998
+14,San Francisco,West Coast,19,10,1998
+15,Northern Arizona,Big Sky,21,7,1998
+16,Nicholls State,Southland,19,9,1998
+1,Kansas,Big 12,34,3,1998
+2,Purdue,Big Ten,26,7,1998
+3,Stanford,Pac-10,26,4,1998
+4,Ole Miss,SEC,22,6,1998
+5,TCU,WAC,27,5,1998
+6,Clemson,ACC,18,13,1998
+7,St. John's,Big East,22,9,1998
+8,Rhode Island,Atlantic 10,22,8,1998
+9,Murray State,Ohio Valley,29,3,1998
+10,Detroit,MCC,24,5,1998
+11,Western Michigan,Mid-American,20,7,1998
+12,Florida State,ACC,17,13,1998
+13,Valparaiso,Mid-Continent,21,9,1998
+14,College of Charleston,TAAC,24,5,1998
+15,Delaware,America East,20,9,1998
+16,Prairie View A&M,SWAC,13,16,1998
+1,Duke,ACC,32,1,1999
+2,Miami (FL),Big East,22,6,1999
+3,Cincinnati,Conference USA,26,5,1999
+4,Tennessee,SEC,20,8,1999
+5,Wisconsin,Big Ten,22,9,1999
+6,Temple,Atlantic 10,21,10,1999
+7,Texas,Big 12,19,12,1999
+8,College of Charleston,Southern,28,2,1999
+9,Tulsa,WAC,22,9,1999
+10,Purdue,Big Ten,19,12,1999
+11,Kent State,Mid-American,23,6,1999
+12,Southwest Missouri State,Missouri Valley,20,10,1999
+13,Delaware,America East,25,5,1999
+14,George Mason,CAA,19,10,1999
+15,Lafayette,Patriot,22,7,1999
+16,Florida A&M,MEAC,12,18,1999
+1,Auburn,SEC,27,3,1999
+2,Maryland,ACC,26,5,1999
+3,St. John's,Big East,25,8,1999
+4,Ohio State,Big Ten,23,8,1999
+5,UCLA,Pac-10,22,8,1999
+6,Indiana,Big Ten,22,10,1999
+7,Louisville,Conference USA,19,10,1999
+8,Syracuse,Big East,21,11,1999
+9,Oklahoma State,Big 12,22,10,1999
+10,Creighton,Missouri Valley,21,8,1999
+11,George Washington,Atlantic 10,20,8,1999
+12,Detroit,MCC,24,5,1999
+13,Murray State,Ohio Valley,27,5,1999
+14,Samford,TAAC,24,5,1999
+15,Valparaiso,Mid-Continent,23,8,1999
+16,Winthrop,Big South,17,13,1999
+1,Michigan State,Big Ten,29,4,1999
+2,Utah,WAC,27,4,1999
+3,Kentucky,SEC,25,8,1999
+4,Arizona,Pac-10,22,6,1999
+5,UNC Charlotte,Conference USA,22,10,1999
+6,Kansas,Big 12,22,9,1999
+7,Washington,Pac-10,17,11,1999
+8,Villanova,Big East,21,10,1999
+9,Ole Miss,SEC,19,13,1999
+10,Miami (OH),MAC,22,7,1999
+11,Evansville,Missouri Valley,23,9,1999
+12,Rhode Island,Atlantic 10,20,10,1999
+13,Oklahoma,Big 12,20,10,1999
+14,New Mexico State,Big West,23,9,1999
+15,Arkansas State,Sun Belt,18,11,1999
+16,Mount St. Mary's,NEC,15,14,1999
+1,Connecticut,Big East,28,2,1999
+2,Stanford,Pac-10,25,6,1999
+3,North Carolina,ACC,24,9,1999
+4,Arkansas,SEC,22,10,1999
+5,Iowa,Big Ten,18,9,1999
+6,Florida,SEC,20,8,1999
+7,Minnesota,Big Ten,17,10,1999
+8,Missouri,Big 12,20,8,1999
+9,New Mexico,WAC,24,8,1999
+10,Gonzaga,West Coast,25,6,1999
+11,Penn,Ivy League,21,5,1999
+12,UAB,Conference USA,20,11,1999
+13,Siena,MAAC,25,5,1999
+14,Weber State,Big Sky,24,7,1999
+15,Alcorn State,SWAC,23,6,1999
+16,UTSA,Southland,18,10,1999
+1,Duke,ACC,28,4,2000
+2,Temple,Atlantic 10,26,5,2000
+3,Oklahoma State,Big 12,24,6,2000
+4,Illinois,Big Ten,21,9,2000
+5,Florida,SEC,24,7,2000
+6,Indiana,Big Ten,20,8,2000
+7,Oregon,Pac-10,22,7,2000
+8,Kansas,Big 12,23,9,2000
+9,DePaul,Conference USA,21,10,2000
+10,Seton Hall,Big East,20,9,2000
+11,Pepperdine,West Coast,24,8,2000
+12,Butler,MCC,23,7,2000
+13,Penn,Ivy League,21,7,2000
+14,Hofstra,America East,24,6,2000
+15,Lafayette,Patriot,24,6,2000
+16,Lamar,Southland,15,15,2000
+1,Michigan State,Big Ten,26,7,2000
+2,Iowa State,Big 12,29,4,2000
+3,Maryland,ACC,24,9,2000
+4,Syracuse,Big East,24,5,2000
+5,Kentucky,SEC,22,9,2000
+6,UCLA,Pac-10,19,11,2000
+7,Auburn,SEC,23,9,2000
+8,Utah,Mountain West,22,8,2000
+9,Saint Louis,Conference USA,19,13,2000
+10,Creighton,Missouri Valley,23,9,2000
+11,Ball State,MAC,22,8,2000
+12,St. Bonaventure,Atlantic 10,21,9,2000
+13,Samford,TAAC,21,10,2000
+14,Iona,MAAC,20,10,2000
+15,Central Connecticut State,Northeast,25,5,2000
+16,Valparaiso,Mid-Continent,19,12,2000
+1,Stanford,Pac-10,26,3,2000
+2,Cincinnati,Conference USA,28,3,2000
+3,Ohio State,Big Ten,22,6,2000
+4,Tennessee,SEC,24,6,2000
+5,Connecticut,Big East,24,9,2000
+6,Miami (FL),Big East,21,10,2000
+7,Tulsa,WAC,29,4,2000
+8,North Carolina,ACC,18,13,2000
+9,Missouri,Big 12,18,12,2000
+10,UNLV,Mountain West,20,9,2000
+11,Arkansas,SEC,19,14,2000
+12,Utah State,Big West,28,5,2000
+13,Louisiana-Lafayette,Sun Belt,25,8,2000
+14,Appalachian State,Southern,23,8,2000
+15,UNC Wilmington,CAA,18,12,2000
+16,South Carolina State,MEAC,20,13,2000
+1,Arizona,Pac-10,26,6,2000
+2,St. John's,Big East,24,7,2000
+3,Oklahoma,Big 12,26,6,2000
+4,LSU,SEC,26,5,2000
+5,Texas,Big 12,23,8,2000
+6,Purdue,Big Ten,21,9,2000
+7,Louisville,Conference USA,19,11,2000
+8,Wisconsin,Big Ten,18,13,2000
+9,Fresno State,WAC,24,9,2000
+10,Gonzaga,West Coast,24,8,2000
+11,Dayton,Atlantic 10,22,8,2000
+12,Indiana State,Missouri Valley,22,9,2000
+13,Southeast Missouri State,Ohio Valley,22,6,2000
+14,Winthrop,Big South,21,8,2000
+15,Northern Arizona,Big Sky,20,10,2000
+16,Jackson State,SWAC,17,15,2000
+1,Duke,ACC,29,4,2001
+2,Kentucky,SEC,22,9,2001
+3,Boston College,Big East,26,4,2001
+4,UCLA,Pac-10,21,8,2001
+5,Ohio State,Big Ten,20,10,2001
+6,USC,Pac-10,21,9,2001
+7,Iowa,Big Ten,22,11,2001
+8,Georgia,SEC,16,14,2001
+9,Missouri,Big 12,19,12,2001
+10,Creighton,Missouri Valley,24,7,2001
+11,Oklahoma State,Big 12,20,9,2001
+12,Utah State,Big West,27,5,2001
+13,Hofstra,America East,26,4,2001
+14,Southern Utah,Mid-Continent,25,5,2001
+15,Holy Cross,Patriot,22,7,2001
+16,Monmouth,NEC,21,9,2001
+1,Stanford,Pac-10,28,2,2001
+2,Iowa State,Big 12,25,5,2001
+3,Maryland,ACC,21,10,2001
+4,Indiana,Big Ten,21,12,2001
+5,Cincinnati,C-USA,23,9,2001
+6,Wisconsin,Big Ten,18,10,2001
+7,Arkansas,SEC,20,10,2001
+8,Georgia Tech,ACC,17,12,2001
+9,Saint Joseph's,Atlantic 10,25,6,2001
+10,Georgetown,Big East,23,7,2001
+11,Georgia State,TAAC,28,4,2001
+12,BYU,Mountain West,24,8,2001
+13,Kent State,MAC,23,9,2001
+14,George Mason,Colonial,18,11,2001
+15,Hampton,MEAC,24,6,2001
+16,UNC Greensboro,Southern,19,11,2001
+1,Michigan State,Big Ten,24,4,2001
+2,North Carolina,ACC,25,6,2001
+3,Florida,SEC,23,6,2001
+4,Oklahoma,Big 12,26,6,2001
+5,Virginia,ACC,20,8,2001
+6,Texas,Big 12,25,8,2001
+7,Penn State,Big Ten,19,11,2001
+8,California,Pac-10,20,10,2001
+9,Fresno State,WAC,25,6,2001
+10,Providence,Big East,21,9,2001
+11,Temple,Atlantic 10,21,12,2001
+12,Gonzaga,WCC,24,6,2001
+13,Indiana State,Missouri Valley,21,11,2001
+14,Western Kentucky,Sun Belt,24,6,2001
+15,Princeton,Ivy League,16,10,2001
+16,Alabama State,SWAC,22,8,2001
+1,Illinois,Big Ten,24,7,2001
+2,Arizona,Pac-10,23,7,2001
+3,Ole Miss,SEC,25,7,2001
+4,Kansas,Big 12,24,6,2001
+5,Syracuse,Big East,24,8,2001
+6,Notre Dame,Big East,19,9,2001
+7,Wake Forest,ACC,19,10,2001
+8,Tennessee,SEC,19,11,2001
+9,Charlotte,C-USA,21,10,2001
+10,Butler,MCC,23,7,2001
+11,Xavier,Atlantic 10,21,7,2001
+12,Hawaii,WAC,17,13,2001
+13,Cal State Northridge,Big Sky,22,9,2001
+14,Iona,MAAC,22,10,2001
+15,Eastern Illinois,Ohio Valley,21,9,2001
+16,Northwestern State,Southland,18,12,2001
+1,Maryland,ACC,26,4,2002
+2,Connecticut,Big East,24,6,2002
+3,Georgia,SEC,21,9,2002
+4,Kentucky,SEC,20,9,2002
+5,Marquette,C-USA,26,6,2002
+6,Texas Tech,Big 12,23,8,2002
+7,NC State,ACC,22,10,2002
+8,Wisconsin,Big Ten,18,12,2002
+9,St. John's,Big East,20,11,2002
+10,Michigan State,Big Ten,19,11,2002
+11,Southern Illinois,Missouri Valley,26,7,2002
+12,Tulsa,WAC,26,6,2002
+13,Valparaiso,Mid-Continent,25,7,2002
+14,Murray State,OVC,19,12,2002
+15,Hampton,MEAC,26,6,2002
+16,Siena,MAAC,16,18,2002
+1,Kansas,Big 12,29,3,2002
+2,Oregon,Pac-10,23,8,2002
+3,Mississippi State,SEC,26,7,2002
+4,Illinois,Big Ten,24,8,2002
+5,Florida,SEC,22,8,2002
+6,Texas,Big 12,20,11,2002
+7,Wake Forest,ACC,20,12,2002
+8,Stanford,Pac-10,19,9,2002
+9,Western Kentucky,Sun Belt,28,3,2002
+10,Pepperdine,WCC,22,8,2002
+11,Boston College,Big East,20,11,2002
+12,Creighton,Missouri Valley,22,8,2002
+13,San Diego State,Mountain West,21,11,2002
+14,McNeese State,Southland,21,8,2002
+15,Montana,Big Sky,16,14,2002
+16,Holy Cross,Patriot,18,14,2002
+1,Duke,ACC,29,3,2002
+2,Alabama,SEC,26,7,2002
+3,Pittsburgh,Big East,27,5,2002
+4,USC,Pac-10,22,9,2002
+5,Indiana,Big Ten,20,11,2002
+6,California,Pac-10,21,8,2002
+7,Oklahoma State,Big 12,23,8,2002
+8,Notre Dame,Big East,21,10,2002
+9,Charlotte,C-USA,18,11,2002
+10,Kent State,MAC,27,5,2002
+11,Penn,Ivy League,25,6,2002
+12,Utah,Mountain West,21,8,2002
+13,UNC Wilmington,CAA,22,9,2002
+14,Central Connecticut State,NEC,27,4,2002
+15,Florida Atlantic,Atlantic Sun,19,11,2002
+16,Winthrop,Big South,19,11,2002
+1,Cincinnati,C-USA,30,3,2002
+2,Oklahoma,Big 12,27,4,2002
+3,Arizona,Pac-10,22,9,2002
+4,Ohio State,Big Ten,23,7,2002
+5,Miami (FL),Big East,24,7,2002
+6,Gonzaga,WCC,29,3,2002
+7,Xavier,Atlantic 10,25,5,2002
+8,UCLA,Pac-10,19,11,2002
+9,Ole Miss,SEC,20,10,2002
+10,Hawaii,WAC,27,5,2002
+11,Wyoming,Mountain West,21,8,2002
+12,Missouri,Big 12,21,11,2002
+13,Davidson,Southern,21,9,2002
+14,UC Santa Barbara,Big West,20,10,2002
+15,Illinois–Chicago,Horizon,20,13,2002
+16,Boston University,America East,22,9,2002
+1,Oklahoma,Big 12,24,6,2003
+2,Wake Forest,ACC,24,5,2003
+3,Syracuse,Big East,24,5,2003
+4,Louisville,C-USA,24,6,2003
+5,Mississippi State,SEC,20,10,2003
+6,Oklahoma State,Big 12,21,9,2003
+7,Saint Joseph's,Atlantic 10,23,6,2003
+8,California,Pac-10,21,8,2003
+9,North Carolina State,ACC,18,12,2003
+10,Auburn,SEC,20,11,2003
+11,Pennsylvania,Ivy League,22,5,2003
+12,Butler,Horizon,25,5,2003
+13,Austin Peay,OVC,23,7,2003
+14,Manhattan,MAAC,23,6,2003
+15,East Tennessee State,Southern,20,10,2003
+16,South Carolina State,MEAC,20,10,2003
+1,Texas,Big 12,22,6,2003
+2,Florida,SEC,24,7,2003
+3,Xavier,Atlantic 10,25,5,2003
+4,Stanford,Pac-10,23,8,2003
+5,Connecticut,Big East,21,9,2003
+6,Maryland,ACC,19,9,2003
+7,Michigan State,Big Ten,19,12,2003
+8,LSU,SEC,21,10,2003
+9,Purdue,Big Ten,18,10,2003
+10,Colorado,Big 12,20,11,2003
+11,UNC Wilmington,CAA,24,6,2003
+12,BYU,Mountain West,23,8,2003
+13,San Diego,WCC,18,11,2003
+14,Troy State,Atlantic Sun,26,5,2003
+15,Sam Houston State,Southland,23,6,2003
+16,UNC Asheville,Big South,14,16,2003
+1,Kentucky,SEC,29,3,2003
+2,Pittsburgh,Big East,26,4,2003
+3,Marquette,C-USA,23,5,2003
+4,Dayton,Atlantic 10,24,5,2003
+5,Wisconsin,Big Ten,22,7,2003
+6,Missouri,Big 12,21,10,2003
+7,Indiana,Big Ten,20,12,2003
+8,Oregon,Pac-10,23,9,2003
+9,Utah,Mountain West,24,7,2003
+10,Alabama,SEC,17,11,2003
+11,Southern Illinois,Missouri Valley,24,6,2003
+12,Weber State,Big Sky,26,5,2003
+13,Tulsa,WAC,22,9,2003
+14,Holy Cross,Patriot,26,4,2003
+15,Wagner,Northeast,21,10,2003
+16,IUPUI,Mid-Continent,20,13,2003
+1,Arizona,Pac-10,25,3,2003
+2,Kansas,Big 12,25,7,2003
+3,Duke,ACC,24,6,2003
+4,Illinois,Big Ten,24,6,2003
+5,Notre Dame,Big East,22,9,2003
+6,Creighton,Missouri Valley,29,4,2003
+7,Memphis,C-USA,23,6,2003
+8,Cincinnati,C-USA,17,11,2003
+9,Gonzaga,WCC,23,8,2003
+10,Arizona State,Pac-10,19,11,2003
+11,Central Michigan,Mid-American,24,6,2003
+12,UW–Milwaukee,Horizon,24,7,2003
+13,Western Kentucky,Sun Belt,24,8,2003
+14,Colorado State,Mountain West,19,13,2003
+15,Utah State,Big West,24,8,2003
+16,Vermont,America East,21,11,2003
+1,Saint Joseph's,Atlantic 10,27,1,2004
+2,Oklahoma State,Big 12,27,3,2004
+3,Pittsburgh,Big East,29,4,2004
+4,Wake Forest,ACC,19,9,2004
+5,Florida,SEC,20,10,2004
+6,Wisconsin,Big Ten,24,6,2004
+7,Memphis,C-USA,21,7,2004
+8,Texas Tech,Big 12,22,10,2004
+9,Charlotte,C-USA,21,8,2004
+10,South Carolina,SEC,23,10,2004
+11,Richmond,Atlantic 10,20,12,2004
+12,Manhattan,MAAC,24,5,2004
+13,VCU,CAA,23,7,2004
+14,Central Florida,Atlantic Sun,25,5,2004
+15,Eastern Washington,Big Sky,17,12,2004
+16,Liberty,Big South,18,14,2004
+1,Kentucky,SEC,26,4,2004
+2,Gonzaga,WCC,27,2,2004
+3,Georgia Tech,ACC,23,9,2004
+4,Kansas,Big 12,21,8,2004
+5,Providence,Big East,20,8,2004
+6,Boston College,Big East,23,9,2004
+7,Michigan State,Big Ten,18,11,2004
+8,Washington,Pac-10,19,11,2004
+9,UAB,C-USA,20,9,2004
+10,Nevada,WAC,23,8,2004
+11,Utah,Mountain West,24,8,2004
+12,Pacific,Big West,25,7,2004
+13,Illinois–Chicago,Horizon,24,7,2004
+14,Northern Iowa,Missouri Valley,21,9,2004
+15,Valparaiso,Mid-Continent,18,12,2004
+16,Florida A&M,MEAC,14,16,2004
+1,Duke,ACC,27,5,2004
+2,Mississippi State,SEC,25,3,2004
+3,Texas,Big 12,23,7,2004
+4,Cincinnati,C-USA,24,6,2004
+5,Illinois,Big Ten,24,6,2004
+6,North Carolina,ACC,18,10,2004
+7,Xavier,Atlantic 10,23,10,2004
+8,Seton Hall,Big East,20,9,2004
+9,Arizona,Pac-10,20,9,2004
+10,Louisville,C-USA,20,9,2004
+11,Air Force,Mountain West,22,6,2004
+12,Murray State,Ohio Valley,28,5,2004
+13,East Tennessee State,SoCon,27,5,2004
+14,Princeton,Ivy,20,7,2004
+15,Monmouth,Northeast,21,11,2004
+16,Alabama State,SWAC,16,14,2004
+1,Stanford,Pac-10,29,1,2004
+2,Connecticut,Big East,27,6,2004
+3,NC State,ACC,20,9,2004
+4,Maryland,ACC,19,11,2004
+5,Syracuse,Big East,21,7,2004
+6,Vanderbilt,SEC,21,9,2004
+7,DePaul,C-USA,21,9,2004
+8,Alabama,SEC,17,12,2004
+9,Southern Illinois,Missouri Valley,25,4,2004
+10,Dayton,Atlantic 10,24,8,2004
+11,Western Michigan,Mid-American,26,4,2004
+12,BYU,Mountain West,21,8,2004
+13,UTEP,WAC,24,7,2004
+14,Louisiana–Lafayette,Sun Belt,20,8,2004
+15,Vermont,America East,22,8,2004
+16,UTSA,Southland,19,13,2004
+1,Illinois,Big Ten,32,1,2005
+2,Oklahoma State,Big 12,24,6,2005
+3,Arizona,Pac-10,27,6,2005
+4,Boston College,Big East,24,4,2005
+5,Alabama,SEC,24,7,2005
+6,LSU,SEC,20,9,2005
+7,Southern Illinois,Missouri Valley,26,7,2005
+8,Texas,Big 12,20,10,2005
+9,Nevada,WAC,24,6,2005
+10,Saint Mary's,WCC,25,8,2005
+11,UAB,C-USA,21,10,2005
+12,UW-Milwaukee,Horizon,24,5,2005
+13,Penn,Ivy,20,8,2005
+14,Utah State,Big West,24,7,2005
+15,Southeastern Louisiana,Southland,24,8,2005
+16,Fairleigh Dickinson,Northeast,20,12,2005
+1,Washington,Pac-10,27,5,2005
+2,Wake Forest,ACC,26,5,2005
+3,Gonzaga,WCC,25,4,2005
+4,Louisville,C-USA,29,4,2005
+5,Georgia Tech,ACC,19,11,2005
+6,Texas Tech,Big 12,20,10,2005
+7,West Virginia,Big East,21,10,2005
+8,Pacific,Big West,26,3,2005
+9,Pittsburgh,Big East,20,8,2005
+10,Creighton,Missouri Valley,23,10,2005
+11,UCLA,Pac-10,18,10,2005
+12,George Washington,Atlantic 10,22,7,2005
+13,Louisiana–Lafayette,Sun Belt,20,10,2005
+14,Winthrop,Big South,27,5,2005
+15,Chattanooga,SoCon,20,10,2005
+16,Montana,Big Sky,18,12,2005
+1,North Carolina,ACC,27,4,2005
+2,Connecticut,Big East,22,7,2005
+3,Kansas,Big 12,23,6,2005
+4,Florida,SEC,23,7,2005
+5,Villanova,Big East,22,7,2005
+6,Wisconsin,Big Ten,22,8,2005
+7,Charlotte,C-USA,21,7,2005
+8,Minnesota,Big Ten,21,10,2005
+9,Iowa State,Big 12,18,11,2005
+10,NC State,ACC,19,13,2005
+11,Northern Iowa,Missouri Valley,21,10,2005
+12,New Mexico,Mountain West,26,6,2005
+13,Ohio,Mid-American,21,10,2005
+14,Bucknell,Patriot,22,9,2005
+15,Central Florida,Atlantic Sun,24,8,2005
+16,Oakland,Mid-Continent,12,18,2005
+1,Duke,ACC,25,5,2005
+2,Kentucky,SEC,25,5,2005
+3,Oklahoma,Big 12,24,7,2005
+4,Syracuse,Big East,27,6,2005
+5,Michigan State,Big Ten,22,6,2005
+6,Utah,Mountain West,27,5,2005
+7,Cincinnati,C-USA,24,7,2005
+8,Stanford,Pac-10,18,12,2005
+9,Mississippi State,SEC,22,10,2005
+10,Iowa,Big Ten,21,11,2005
+11,UTEP,WAC,27,7,2005
+12,Old Dominion,CAA,28,5,2005
+13,Vermont,America East,24,6,2005
+14,Niagara,MAAC,20,9,2005
+15,Eastern Kentucky,Ohio Valley,22,8,2005
+16,Delaware State,MEAC,19,13,2005
+1,Duke,ACC,30,3,2006
+2,Texas,Big 12,27,6,2006
+3,Iowa,Big Ten,25,8,2006
+4,LSU,SEC,23,8,2006
+5,Syracuse,Big East,23,11,2006
+6,West Virginia,Big East,20,10,2006
+7,California,Pac-10,20,10,2006
+8,George Washington,Atlantic 10,26,2,2006
+9,UNC Wilmington,CAA,25,7,2006
+10,NC State,ACC,21,9,2006
+11,Southern Illinois,Missouri Valley,22,10,2006
+12,Texas A&M,Big 12,21,8,2006
+13,Iona,MAAC,23,7,2006
+14,Northwestern State,Southland,25,7,2006
+15,Pennsylvania,Ivy,20,8,2006
+16,Southern,SWAC,19,12,2006
+1,Memphis,C-USA,30,3,2006
+2,UCLA,Pac-10,27,6,2006
+3,Gonzaga,WCC,27,3,2006
+4,Kansas,Big 12,25,7,2006
+5,Pittsburgh,Big East,24,7,2006
+6,Indiana,Big Ten,18,11,2006
+7,Marquette,Big East,20,10,2006
+8,Arkansas,SEC,22,9,2006
+9,Bucknell,Patriot,26,4,2006
+10,Alabama,SEC,17,12,2006
+11,San Diego State,Mountain West,24,8,2006
+12,Kent State,MAC,25,8,2006
+13,Bradley,Missouri Valley,20,10,2006
+14,Xavier,Atlantic 10,21,10,2006
+15,Belmont,Atlantic Sun,20,10,2006
+16,Oral Roberts,Mid-Continent,21,11,2006
+1,Connecticut,Big East,27,3,2006
+2,Tennessee,SEC,21,7,2006
+3,North Carolina,ACC,22,7,2006
+4,Illinois,Big Ten,25,6,2006
+5,Washington,Pac-10,24,6,2006
+6,Michigan State,Big Ten,22,11,2006
+7,Wichita State,Missouri Valley,24,8,2006
+8,Kentucky,SEC,21,12,2006
+9,UAB,C-USA,24,6,2006
+10,Seton Hall,Big East,18,11,2006
+11,George Mason,CAA,25,7,2006
+12,Utah State,WAC,23,8,2006
+13,Air Force,Mountain West,24,6,2006
+14,Murray State,Ohio Valley,24,6,2006
+15,Winthrop,Big South,23,7,2006
+16,Albany,America East,21,10,2006
+1,Villanova,Big East,25,4,2006
+2,Ohio State,Big Ten,25,5,2006
+3,Florida,SEC,27,6,2006
+4,Boston College,ACC,26,7,2006
+5,Nevada,WAC,27,5,2006
+6,Oklahoma,Big 12,20,8,2006
+7,Georgetown,Big East,21,9,2006
+8,Arizona,Pac-10,19,12,2006
+9,Wisconsin,Big Ten,19,11,2006
+10,Northern Iowa,Missouri Valley,23,9,2006
+11,UW-Milwaukee,Horizon,21,8,2006
+12,Montana,Big Sky,23,6,2006
+13,Pacific,Big West,24,7,2006
+14,South Alabama,Sun Belt,24,6,2006
+15,Davidson,Southern,18,10,2006
+16,Monmouth,Northeast,18,14,2006
+1,Florida,SEC,29,5,2007
+2,Wisconsin,Big Ten,29,5,2007
+3,Oregon,Pac-10,26,7,2007
+4,Maryland,ACC,24,8,2007
+5,Butler,Horizon,27,6,2007
+6,Notre Dame,Big East,24,7,2007
+7,UNLV,Mountain West,28,6,2007
+8,Arizona,Pac-10,20,10,2007
+9,Purdue,Big Ten,21,11,2007
+10,Georgia Tech,ACC,20,11,2007
+11,Winthrop,Big South,28,4,2007
+12,Old Dominion,CAA,24,8,2007
+13,Davidson,Southern,29,4,2007
+14,Miami (Ohio),MAC,18,14,2007
+15,Texas A&M–Corpus Christi,Southland,26,6,2007
+16,Jackson State,SWAC,21,13,2007
+1,North Carolina,ACC,28,6,2007
+2,Georgetown,Big East,26,6,2007
+3,Washington State,Pac-10,25,7,2007
+4,Texas,Big 12,24,9,2007
+5,USC,Pac-10,23,11,2007
+6,Vanderbilt,SEC,20,11,2007
+7,Boston College,ACC,20,11,2007
+8,Marquette,Big East,24,9,2007
+9,Michigan State,Big Ten,22,11,2007
+10,Texas Tech,Big 12,21,12,2007
+11,George Washington,Atlantic 10,23,8,2007
+12,Arkansas,SEC,21,13,2007
+13,New Mexico State,WAC,25,8,2007
+14,Oral Roberts,Mid-Continent,23,10,2007
+15,Belmont,Atlantic Sun,23,9,2007
+16,Eastern Kentucky,Ohio Valley,21,11,2007
+1,Ohio State,Big Ten,30,3,2007
+2,Memphis,C-USA,30,3,2007
+3,Texas A&M,Big 12,25,6,2007
+4,Virginia,ACC,20,10,2007
+5,Tennessee,SEC,22,10,2007
+6,Louisville,Big East,23,9,2007
+7,Nevada,WAC,28,4,2007
+8,Brigham Young,Mountain West,25,8,2007
+9,Xavier,Atlantic 10,24,8,2007
+10,Creighton,Missouri Valley,22,10,2007
+11,Stanford,Pac-10,18,12,2007
+12,Long Beach State,Big West,24,7,2007
+13,Albany,America East,23,9,2007
+14,Penn,Ivy,22,8,2007
+15,North Texas,Sun Belt,23,10,2007
+16,Central Connecticut,Northeast,22,11,2007
+1,Kansas,Big 12,31,4,2007
+2,UCLA,Pac-10,26,5,2007
+3,Pittsburgh,Big East,27,7,2007
+4,Southern Illinois,Missouri Valley,27,6,2007
+5,Virginia Tech,ACC,21,11,2007
+6,Duke,ACC,22,10,2007
+7,Indiana,Big Ten,20,10,2007
+8,Kentucky,SEC,21,11,2007
+9,Villanova,Big East,22,10,2007
+10,Gonzaga,West Coast,23,10,2007
+11,VCU,CAA,27,6,2007
+12,Illinois,Big Ten,23,11,2007
+13,Holy Cross,Patriot,25,8,2007
+14,Wright State,Horizon,23,9,2007
+15,Weber State,Big Sky,20,11,2007
+16,Niagara,MAAC,22,11,2007
+1,North Carolina,ACC,32,2,2008
+2,Tennessee,SEC,29,4,2008
+3,Louisville,Big East,24,8,2008
+4,Washington State,Pac-10,24,8,2008
+5,Notre Dame,Big East,24,7,2008
+6,Oklahoma,Big 12,22,11,2008
+7,Butler,Horizon,29,3,2008
+8,Indiana,Big Ten,25,7,2008
+9,Arkansas,SEC,22,11,2008
+10,South Alabama,Sun Belt,26,6,2008
+11,Saint Joseph's,Atlantic 10,21,12,2008
+12,George Mason,CAA,23,10,2008
+13,Winthrop,Big South,22,11,2008
+14,Boise State,WAC,25,8,2008
+15,American,Patriot League,21,11,2008
+16,Mount St. Mary's,Northeast,18,14,2008
+1,Kansas,Big 12,31,3,2008
+2,Georgetown,Big East,27,5,2008
+3,Wisconsin,Big Ten,29,4,2008
+4,Vanderbilt,SEC,26,7,2008
+5,Clemson,ACC,24,9,2008
+6,USC,Pac-10,21,11,2008
+7,Gonzaga,West Coast,25,7,2008
+8,UNLV,Mountain West,26,7,2008
+9,Kent State,MAC,28,6,2008
+10,Davidson,Southern,26,6,2008
+11,Kansas State,Big 12,20,11,2008
+12,Villanova,Big East,20,12,2008
+13,Siena,MAAC,22,10,2008
+14,Cal State Fullerton,Big West,24,8,2008
+15,UMBC,America East,24,8,2008
+16,Portland State,Big Sky,23,9,2008
+1,Memphis,C-USA,33,1,2008
+2,Texas,Big 12,28,6,2008
+3,Stanford,Pac-10,26,7,2008
+4,Pittsburgh,Big East,26,9,2008
+5,Michigan State,Big Ten,25,8,2008
+6,Marquette,Big East,24,9,2008
+7,Miami (FL),ACC,22,10,2008
+8,Mississippi State,SEC,22,10,2008
+9,Oregon,Pac-10,18,13,2008
+10,Saint Mary's,West Coast,25,6,2008
+11,Kentucky,SEC,18,12,2008
+12,Temple,Atlantic 10,21,12,2008
+13,Oral Roberts,Summit,24,8,2008
+14,Cornell,Ivy League,22,5,2008
+15,Austin Peay,Ohio Valley,24,10,2008
+16,Texas–Arlington,Southland,21,11,2008
+1,UCLA,Pac-10,31,3,2008
+2,Duke,ACC,27,5,2008
+3,Xavier,Atlantic 10,27,6,2008
+4,Connecticut,Big East,24,8,2008
+5,Drake,Missouri Valley,28,4,2008
+6,Purdue,Big Ten,24,8,2008
+7,West Virginia,Big East,24,10,2008
+8,BYU,Mountain West,27,7,2008
+9,Texas A&M,Big 12,24,10,2008
+10,Arizona,Pac-10,19,14,2008
+11,Baylor,Big 12,21,10,2008
+12,Western Kentucky,Sun Belt,27,6,2008
+13,San Diego,West Coast,21,13,2008
+14,Georgia,SEC,17,16,2008
+15,Belmont,Atlantic Sun,25,8,2008
+16,Mississippi Valley State,SWAC,17,15,2008
+1,Pittsburgh,Big East,31,4,2009
+2,Duke,ACC,30,6,2009
+3,Villanova,Big East,30,7,2009
+4,Xavier,Atlantic 10,28,7,2009
+5,Florida State,ACC,25,9,2009
+6,UCLA,Pac-10,26,8,2009
+7,Texas,Big 12,23,11,2009
+8,Oklahoma State,Big 12,23,11,2009
+9,Tennessee,SEC,21,12,2009
+10,Minnesota,Big Ten,22,10,2009
+11,VCU,CAA,24,9,2009
+12,Wisconsin,Big Ten,20,12,2009
+13,Portland State,Big Sky,23,9,2009
+14,American,Patriot,24,7,2009
+15,Binghamton,America East,23,8,2009
+16,East Tennessee State,Atlantic Sun,23,10,2009
+1,Louisville,Big East,28,5,2009
+2,Michigan State,Big Ten,26,6,2009
+3,Kansas,Big 12,25,7,2009
+4,Wake Forest,ACC,24,6,2009
+5,Utah,Mountain West,24,9,2009
+6,West Virginia,Big East,23,11,2009
+7,Boston College,ACC,22,11,2009
+8,Ohio State,Big Ten,22,10,2009
+9,Siena,MAAC,26,7,2009
+10,USC,Pac-10,21,12,2009
+11,Dayton,Atlantic 10,26,7,2009
+12,Arizona,Pac-10,19,13,2009
+13,Cleveland State,Horizon,25,10,2009
+14,North Dakota State,Summit,26,6,2009
+15,Robert Morris,Northeast,24,10,2009
+16,Alabama State,SWAC,22,9,2009
+1,North Carolina,ACC,28,4,2009
+2,Oklahoma,Big 12,27,5,2009
+3,Syracuse,Big East,26,9,2009
+4,Gonzaga,West Coast,26,5,2009
+5,Illinois,Big Ten,24,9,2009
+6,Arizona State,Pac-10,24,9,2009
+7,Clemson,ACC,23,8,2009
+8,LSU,SEC,26,7,2009
+9,Butler,Horizon,26,5,2009
+10,Michigan,Big Ten,20,13,2009
+11,Temple,Atlantic 10,22,11,2009
+12,Western Kentucky,Sun Belt,24,8,2009
+13,Akron,Mid-American,23,12,2009
+14,Stephen F. Austin,Southland,24,7,2009
+15,Morgan State,MEAC,23,11,2009
+16,Radford,Big South,21,11,2009
+1,Connecticut,Big East,27,4,2009
+2,Memphis,C-USA,31,3,2009
+3,Missouri,Big 12,28,6,2009
+4,Washington,Pac-10,25,8,2009
+5,Purdue,Big Ten,25,9,2009
+6,Marquette,Big East,24,9,2009
+7,California,Pac-10,22,10,2009
+8,BYU,Mountain West,25,7,2009
+9,Texas A&M,Big 12,23,9,2009
+10,Maryland,ACC,20,13,2009
+11,Utah State,WAC,30,4,2009
+12,Northern Iowa,Missouri Valley,23,10,2009
+13,Mississippi State,SEC,23,12,2009
+14,Cornell,Ivy League,21,9,2009
+15,Cal State Northridge,Big West,17,13,2009
+16,Chattanooga,So Con,18,16,2009
+1,Kentucky,SEC,32,2,2010
+2,West Virginia,Big East,27,6,2010
+3,New Mexico,Mountain West,29,4,2010
+4,Wisconsin,Big Ten,23,8,2010
+5,Temple,Atlantic 10,29,5,2010
+6,Marquette,Big East,22,11,2010
+7,Clemson,ACC,21,10,2010
+8,Texas,Big 12,24,9,2010
+9,Wake Forest,ACC,19,10,2010
+10,Missouri,Big 12,22,10,2010
+11,Washington,Pac-10,24,9,2010
+12,Cornell,Ivy League,27,4,2010
+13,Wofford,Southern,26,8,2010
+14,Montana,Big Sky,22,9,2010
+15,Morgan State,MEAC,27,9,2010
+16,East Tennessee State,Atlantic Sun,20,14,2010
+1,Kansas,Big 12,32,2,2010
+2,Ohio State,Big Ten,27,7,2010
+3,Georgetown,Big East,23,10,2010
+4,Maryland,ACC,23,8,2010
+5,Michigan State,Big Ten,24,8,2010
+6,Tennessee,SEC,25,8,2010
+7,Oklahoma State,Big 12,22,10,2010
+8,UNLV,Mountain West,25,8,2010
+9,Northern Iowa,Missouri Valley,28,4,2010
+10,Georgia Tech,ACC,22,12,2010
+11,San Diego State,Mountain West,25,8,2010
+12,New Mexico State,WAC,22,11,2010
+13,Houston,C-USA,19,15,2010
+14,Ohio,Mid-American,21,14,2010
+15,UC Santa Barbara,Big West,20,9,2010
+16,Lehigh,Patriot,22,10,2010
+1,Duke,ACC,29,5,2010
+2,Villanova,Big East,24,7,2010
+3,Baylor,Big 12,25,7,2010
+4,Purdue,Big Ten,27,5,2010
+5,Texas A&M,Big 12,23,9,2010
+6,Notre Dame,Big East,23,11,2010
+7,Richmond,Atlantic 10,26,8,2010
+8,California,Pac-10,23,10,2010
+9,Louisville,Big East,20,12,2010
+10,Saint Mary's,West Coast,26,5,2010
+11,Old Dominion,CAA,26,8,2010
+12,Utah State,WAC,27,7,2010
+13,Siena,MAAC,27,6,2010
+14,Sam Houston State,Southland,25,7,2010
+15,Robert Morris,Northeast,23,11,2010
+16,Arkansas–Pine Bluff,SWAC,17,15,2010
+1,Syracuse,Big East,28,4,2010
+2,Kansas State,Big 12,26,7,2010
+3,Pittsburgh,Big East,24,8,2010
+4,Vanderbilt,SEC,24,8,2010
+5,Butler,Horizon,28,4,2010
+6,Xavier,Atlantic 10,24,8,2010
+7,BYU,Mountain West,29,5,2010
+8,Gonzaga,West Coast,26,6,2010
+9,Florida State,ACC,22,9,2010
+10,Florida,SEC,21,12,2010
+11,Minnesota,Big Ten,21,13,2010
+12,UTEP,C-USA,26,6,2010
+13,Murray State,Ohio Valley,30,4,2010
+14,Oakland,Summit,26,8,2010
+15,North Texas,Sun Belt,24,8,2010
+16,Vermont,America East,25,9,2010
+1,Ohio State,Big Ten,32,2,2011
+2,North Carolina,ACC,26,7,2011
+3,Syracuse,Big East,26,7,2011
+4,Kentucky,SEC,25,8,2011
+5,West Virginia,Big East,20,11,2011
+6,Xavier,Atlantic 10,24,7,2011
+7,Washington,Pac-10,23,10,2011
+8,George Mason,CAA,26,6,2011
+9,Villanova,Big East,21,11,2011
+10,Georgia,SEC,21,11,2011
+11,Marquette,Big East,20,14,2011
+12,UAB,C-USA,22,8,2011
+13,Princeton,Ivy League,25,6,2011
+14,Indiana State,Missouri Valley,20,13,2011
+15,Long Island,Northeast,27,5,2011
+16,UTSA,Southland,19,13,2011
+1,Pittsburgh,Big East,27,5,2011
+2,Florida,SEC,26,7,2011
+3,BYU,Mountain West,30,4,2011
+4,Wisconsin,Big Ten,23,8,2011
+5,Kansas State,Big 12,22,10,2011
+6,St. John's,Big East,21,11,2011
+7,UCLA,Pac-10,22,10,2011
+8,Butler,Horizon,23,9,2011
+9,Old Dominion,CAA,27,6,2011
+10,Michigan State,Big Ten,19,14,2011
+11,Gonzaga,West Coast,24,9,2011
+12,Utah State,WAC,30,3,2011
+13,Belmont,Atlantic Sun,30,4,2011
+14,Wofford,Southern,21,12,2011
+15,UC Santa Barbara,Big West,18,13,2011
+16,UNC Asheville,Big South,19,13,2011
+1,Kansas,Big 12,32,2,2011
+2,Notre Dame,Big East,26,6,2011
+3,Purdue,Big Ten,25,7,2011
+4,Louisville,Big East,25,9,2011
+5,Vanderbilt,SEC,23,10,2011
+6,Georgetown,Big East,21,10,2011
+7,Texas A&M,Big 12,24,8,2011
+8,UNLV,Mountain West,24,8,2011
+9,Illinois,Big Ten,19,13,2011
+10,Florida State,ACC,21,10,2011
+11,USC,Pac-10,19,14,2011
+12,Richmond,Atlantic 10,27,7,2011
+13,Morehead State,Ohio Valley,24,9,2011
+14,Saint Peter's,MAAC,20,13,2011
+15,Akron,MAC,23,12,2011
+16,Boston University,America East,21,13,2011
+1,Duke,ACC,30,4,2011
+2,San Diego State,Mountain West,32,2,2011
+3,Connecticut,Big East,26,9,2011
+4,Texas,Big 12,27,7,2011
+5,Arizona,Pac-10,27,7,2011
+6,Cincinnati,Big East,25,8,2011
+7,Temple,Atlantic 10,25,7,2011
+8,Michigan,Big Ten,20,13,2011
+9,Tennessee,SEC,19,14,2011
+10,Penn State,Big Ten,19,14,2011
+11,Missouri,Big 12,23,10,2011
+12,Memphis,C-USA,25,9,2011
+13,Oakland,Summit,25,9,2011
+14,Bucknell,Patriot,25,8,2011
+15,Northern Colorado,Big Sky,21,10,2011
+16,Hampton,MEAC,24,8,2011
+1,Syracuse,Big East,31,2,2012
+2,Ohio State,Big Ten,27,7,2012
+3,Florida State,ACC,24,9,2012
+4,Wisconsin,Big Ten,24,9,2012
+5,Vanderbilt,SEC,24,10,2012
+6,Cincinnati,Big East,24,10,2012
+7,Gonzaga,West Coast,25,6,2012
+8,Kansas State,Big 12,21,10,2012
+9,Southern Miss,C-USA,25,8,2012
+10,West Virginia,Big East,19,13,2012
+11,Texas,Big 12,20,13,2012
+12,Harvard,Ivy League,26,4,2012
+13,Montana,Big Sky,25,6,2012
+14,St. Bonaventure,Atlantic 10,20,11,2012
+15,Loyola,MAAC,24,8,2012
+16,UNC Asheville,Big South,24,9,2012
+1,North Carolina,ACC,29,5,2012
+2,Kansas,Big 12,27,6,2012
+3,Georgetown,Big East,23,8,2012
+4,Michigan,Big Ten,24,9,2012
+5,Temple,Atlantic 10,24,7,2012
+6,San Diego State,Mountain West,26,7,2012
+7,Saint Mary's,West Coast,27,5,2012
+8,Creighton,Missouri Valley,28,5,2012
+9,Alabama,SEC,21,11,2012
+10,Purdue,Big Ten,21,12,2012
+11,NC State,ACC,22,12,2012
+12,California,Pac-12,24,9,2012
+13,Ohio,MAC,27,7,2012
+14,Belmont,Atlantic Sun,27,7,2012
+15,Detroit Mercy,Horizon,22,13,2012
+16,Lamar,Southland,23,11,2012
+1,Kentucky,SEC,32,2,2012
+2,Duke,ACC,27,6,2012
+3,Baylor,Big 12,27,7,2012
+4,Indiana,Big Ten,25,8,2012
+5,Wichita State,Missouri Valley,27,5,2012
+6,UNLV,Mountain West,26,8,2012
+7,Notre Dame,Big East,22,11,2012
+8,Iowa State,Big 12,22,10,2012
+9,Connecticut,Big East,20,13,2012
+10,Xavier,Atlantic 10,21,12,2012
+11,Colorado,Pac-12,23,11,2012
+12,VCU,Colonial,28,6,2012
+13,New Mexico State,WAC,26,9,2012
+14,South Dakota State,Summit,27,7,2012
+15,Lehigh,Patriot,26,7,2012
+16,Mississippi Valley State,SWAC,21,12,2012
+1,Michigan State,Big Ten,27,7,2012
+2,Missouri,Big 12,30,4,2012
+3,Marquette,Big East,25,7,2012
+4,Louisville,Big East,26,9,2012
+5,New Mexico,Mountain West,27,6,2012
+6,Murray State,Ohio Valley,30,1,2012
+7,Florida,SEC,23,10,2012
+8,Memphis,C-USA,26,8,2012
+9,Saint Louis,Atlantic 10,25,7,2012
+10,Virginia,ACC,22,9,2012
+11,Colorado State,Mountain West,20,11,2012
+12,Long Beach State,Big West,25,8,2012
+13,Davidson,Southern,25,7,2012
+14,BYU,West Coast,25,8,2012
+15,Norfolk State,MEAC,25,9,2012
+16,LIU-Brooklyn,Northeast,25,8,2012
+1,Kansas,Big 12,29,5,2013
+2,Georgetown,Big East,25,6,2013
+3,Florida,SEC,26,7,2013
+4,Michigan,Big Ten,26,7,2013
+5,VCU,Atlantic 10,26,8,2013
+6,UCLA,Pac-12,25,9,2013
+7,San Diego State,Mountain West,22,10,2013
+8,North Carolina,ACC,24,10,2013
+9,Villanova,Big East,20,13,2013
+10,Oklahoma,Big 12,20,11,2013
+11,Minnesota,Big Ten,20,12,2013
+12,Akron,MAC,26,6,2013
+13,South Dakota State,Summit,25,9,2013
+14,Northwestern State,Southland,23,8,2013
+15,Florida Gulf Coast,Atlantic Sun,24,10,2013
+16,Western Kentucky,Sun Belt,20,15,2013
+1,Gonzaga,West Coast,31,2,2013
+2,Ohio State,Big Ten,26,7,2013
+3,New Mexico,Mountain West,29,5,2013
+4,Kansas State,Big 12,27,7,2013
+5,Wisconsin,Big Ten,23,11,2013
+6,Arizona,Pac-12,25,7,2013
+7,Notre Dame,Big East,25,9,2013
+8,Pittsburgh,Big East,24,8,2013
+9,Wichita State,Missouri Valley,26,8,2013
+10,Iowa State,Big 12,22,11,2013
+11,Belmont,Ohio Valley,26,6,2013
+12,Ole Miss,SEC,26,8,2013
+13,Boise State,Mountain West,21,10,2013
+14,Harvard,Ivy,19,9,2013
+15,Iona,MAAC,20,13,2013
+16,Southern,SWAC,23,9,2013
+1,Indiana,Big Ten,27,6,2013
+2,Miami,ACC,27,6,2013
+3,Marquette,Big East,23,8,2013
+4,Syracuse,Big East,26,9,2013
+5,UNLV,Mountain West,25,9,2013
+6,Butler,Atlantic 10,26,8,2013
+7,Illinois,Big Ten,22,12,2013
+8,NC State,ACC,24,10,2013
+9,Temple,Atlantic 10,23,9,2013
+10,Colorado,Pac-12,21,11,2013
+11,Bucknell,Patriot,28,5,2013
+12,California,Pac-12,20,11,2013
+13,Montana,Big Sky,25,7,2013
+14,Davidson,Southern,26,7,2013
+15,Pacific,Big West,22,12,2013
+16,James Madison,CAA,20,14,2013
+1,Louisville,Big East,29,5,2013
+2,Duke,ACC,27,5,2013
+3,Michigan State,Big Ten,25,8,2013
+4,Saint Louis,Atlantic 10,27,6,2013
+5,Oklahoma State,Big 12,24,8,2013
+6,Memphis,C-USA,30,4,2013
+7,Creighton,Missouri Valley,27,7,2013
+8,Colorado State,Mountain West,25,8,2013
+9,Missouri,SEC,23,10,2013
+10,Cincinnati,Big East,22,11,2013
+11,Middle Tennessee,Sun Belt,28,5,2013
+12,Oregon,Pac-12,26,8,2013
+13,New Mexico State,WAC,24,10,2013
+14,Valparaiso,Horizon,26,7,2013
+15,Albany,America East,24,10,2013
+16,Liberty,Big South,15,20,2013
+1,Florida,SEC,32,2,2014
+2,Kansas,Big 12,24,9,2014
+3,Syracuse,ACC,27,5,2014
+4,UCLA,Pac-12,26,8,2014
+5,VCU,Atlantic 10,26,8,2014
+6,Ohio State,Big Ten,25,9,2014
+7,New Mexico,Mountain West,27,6,2014
+8,Colorado,Pac-12,23,11,2014
+9,Pittsburgh,ACC,25,9,2014
+10,Stanford,Pac-12,21,12,2014
+11,Dayton,Atlantic 10,23,10,2014
+12,Stephen F. Austin,Southland,31,2,2014
+13,Tulsa,C-USA,21,12,2014
+14,Western Michigan,MAC,23,9,2014
+15,Eastern Kentucky,Ohio Valley,24,9,2014
+16,Albany,America East,18,14,2014
+1,Virginia,ACC,28,6,2014
+2,Villanova,Big East,28,4,2014
+3,Iowa State,Big 12,26,7,2014
+4,Michigan State,Big Ten,26,8,2014
+5,Cincinnati,American,27,6,2014
+6,North Carolina,ACC,23,9,2014
+7,UConn,American,26,8,2014
+8,Memphis,American,23,9,2014
+9,George Washington,Atlantic 10,24,8,2014
+10,Saint Joseph's,Atlantic 10,24,9,2014
+11,Providence,Big East,23,11,2014
+12,Harvard,Ivy,26,4,2014
+13,Delaware,Colonial,25,9,2014
+14,North Carolina Central,MEAC,28,5,2014
+15,Milwaukee,Horizon,21,13,2014
+16,Coastal Carolina,Big South,21,12,2014
+1,Arizona,Pac-12,30,4,2014
+2,Wisconsin,Big Ten,26,7,2014
+3,Creighton,Big East,26,7,2014
+4,San Diego State,Mountain West,29,4,2014
+5,Oklahoma,Big 12,23,9,2014
+6,Baylor,Big 12,24,11,2014
+7,Oregon,Pac-12,23,9,2014
+8,Gonzaga,West Coast,28,6,2014
+9,Oklahoma State,Big 12,21,12,2014
+10,BYU,West Coast,23,11,2014
+11,Nebraska,Big Ten,19,12,2014
+12,North Dakota State,Summit,25,6,2014
+13,New Mexico State,WAC,26,9,2014
+14,Louisiana-Lafayette,Sun Belt,23,11,2014
+15,American,Patriot,20,12,2014
+16,Weber State,Big Sky,19,11,2014
+1,Wichita State,MVC,34,0,2014
+2,Michigan,Big Ten,25,8,2014
+3,Duke,ACC,26,8,2014
+4,Louisville,American,29,5,2014
+5,Saint Louis,Atlantic 10,26,6,2014
+6,Massachusetts,Atlantic 10,24,8,2014
+7,Texas,Big 12,23,10,2014
+8,Kentucky,SEC,24,10,2014
+9,Kansas State,Big 12,20,12,2014
+10,Arizona State,Pac-12,21,11,2014
+11,Iowa,Big Ten,20,12,2014
+12,NC State,ACC,21,13,2014
+13,Manhattan,MAAC,25,7,2014
+14,Mercer,Atlantic Sun,26,8,2014
+15,Wofford,Southern,20,12,2014
+16,Cal Poly,Big West,13,19,2014
+1,Kentucky,SEC,34,0,2015
+2,Kansas,Big 12,26,8,2015
+3,Notre Dame,ACC,29,5,2015
+4,Maryland,Big Ten,27,6,2015
+5,West Virginia,Big 12,23,9,2015
+6,Butler,Big East,22,10,2015
+7,Wichita State,Missouri Valley,28,4,2015
+8,Cincinnati,American,22,10,2015
+9,Purdue,Big Ten,21,12,2015
+10,Indiana,Big Ten,20,13,2015
+11,Texas,Big 12,20,13,2015
+12,Buffalo,Mid American,23,9,2015
+13,Valparaiso,Horizon,28,5,2015
+14,Northeastern,Colonial,23,11,2015
+15,New Mexico State,WAC,23,10,2015
+16,Manhattan,MAAC,19,13,2015
+1,Wisconsin,Big Ten,31,3,2015
+2,Arizona,Pac-12,31,3,2015
+3,Baylor,Big 12,24,9,2015
+4,North Carolina,ACC,24,11,2015
+5,Arkansas,SEC,26,8,2015
+6,Xavier,Big East,21,13,2015
+7,VCU,Atlantic 10,26,9,2015
+8,Oregon,Pac-12,25,9,2015
+9,Oklahoma State,Big 12,18,13,2015
+10,Ohio State,Big Ten,23,10,2015
+11,Mississippi,SEC,20,12,2015
+12,Wofford,Southern,28,6,2015
+13,Harvard,Ivy,22,7,2015
+14,Georgia State,Sun Belt,24,9,2015
+15,Texas Southern,SWAC,22,12,2015
+16,Coastal Carolina,Big South,24,9,2015
+1,Villanova,Big East,32,2,2015
+2,Virginia,ACC,29,3,2015
+3,Oklahoma,Big 12,22,10,2015
+4,Louisville,ACC,24,8,2015
+5,Northern Iowa,Missouri Valley,30,3,2015
+6,Providence,Big East,22,11,2015
+7,Michigan State,Big Ten,23,11,2015
+8,North Carolina State,ACC,20,13,2015
+9,LSU,SEC,22,10,2015
+10,Georgia,SEC,21,11,2015
+11,Boise State,Mountain West,25,8,2015
+12,Wyoming,Mountain West,25,9,2015
+13,UC Irvine,Big West,21,12,2015
+14,Albany,America East,24,8,2015
+15,Belmont,Ohio Valley,22,10,2015
+16,Lafayette,Patriot,20,12,2015
+1,Duke,ACC,29,4,2015
+2,Gonzaga,West Coast,32,2,2015
+3,Iowa State,Big 12,25,8,2015
+4,Georgetown,Big East,21,10,2015
+5,Utah,Pac-12,24,8,2015
+6,SMU,American,27,6,2015
+7,Iowa,Big Ten,21,11,2015
+8,San Diego State,Mountain West,26,8,2015
+9,St. John's,Big East,21,11,2015
+10,Davidson,Atlantic 10,24,7,2015
+11,UCLA,Pac-12,20,13,2015
+12,Stephen F. Austin,Southland,29,4,2015
+13,Eastern Washington,Big Sky,26,8,2015
+14,UAB,C-USA,19,15,2015
+15,North Dakota State,Summit,23,9,2015
+16,North Florida,Atlantic Sun,23,11,2015
+1,Kansas,Big 12,30,4,2016
+2,Villanova,Big East,29,5,2016
+3,Miami,ACC,25,7,2016
+4,California,Pac-12,23,10,2016
+5,Maryland,Big Ten,25,8,2016
+6,Arizona,Pac-12,25,8,2016
+7,Iowa,Big Ten,21,10,2016
+8,Colorado,Pac-12,22,11,2016
+9,UConn,American,24,10,2016
+10,Temple,American,21,11,2016
+11,Vanderbilt,SEC,19,13,2016
+12,South Dakota State,Summit League,26,7,2016
+13,Hawaii,Big West,27,5,2016
+14,Buffalo,MAC,20,14,2016
+15,UNC Asheville,Big South,22,11,2016
+16,Austin Peay,Ohio Valley,18,17,2016
+1,Oregon,Pac-12,28,6,2016
+2,Oklahoma,Big 12,25,7,2016
+3,Texas A&M,SEC,26,8,2016
+4,Duke,ACC,23,10,2016
+5,Baylor,Big 12,22,11,2016
+6,Texas,Big 12,20,12,2016
+7,Oregon State,Pac-12,19,12,2016
+8,Saint Joseph's,Atlantic 10,27,7,2016
+9,Cincinnati,American,22,10,2016
+10,VCU,Atlantic 10,24,10,2016
+11,Northern Iowa,Missouri Valley,22,12,2016
+12,Yale,Ivy League,22,6,2016
+13,UNC Wilmington,CAA,25,7,2016
+14,Green Bay,Horizon,23,12,2016
+15,Cal State Bakersfield,WAC,24,8,2016
+16,Holy Cross,Patriot,14,19,2016
+1,North Carolina,ACC,28,6,2016
+2,Xavier,Big East,27,5,2016
+3,West Virginia,Big 12,26,8,2016
+4,Kentucky,SEC,26,8,2016
+5,Indiana,Big Ten,25,7,2016
+6,Notre Dame,ACC,21,11,2016
+7,Wisconsin,Big Ten,20,12,2016
+8,USC,Pac-12,21,12,2016
+9,Providence,Big East,23,10,2016
+10,Pittsburgh,ACC,21,11,2016
+11,Michigan,Big Ten,22,12,2016
+12,Chattanooga,Southern,29,5,2016
+13,Stony Brook,America East,26,6,2016
+14,Stephen F. Austin,Southland,27,5,2016
+15,Weber State,Big Sky,26,8,2016
+16,Florida Gulf Coast,Atlantic Sun,20,13,2016
+1,Virginia,ACC,26,7,2016
+2,Michigan State,Big Ten,29,5,2016
+3,Utah,Pac-12,26,8,2016
+4,Iowa State,Big 12,21,11,2016
+5,Purdue,Big Ten,26,8,2016
+6,Seton Hall,Big East,25,8,2016
+7,Dayton,Atlantic 10,25,7,2016
+8,Texas Tech,Big 12,19,12,2016
+9,Butler,Big East,21,10,2016
+10,Syracuse,ACC,19,13,2016
+11,Gonzaga,WCC,26,7,2016
+12,Little Rock,Sun Belt,29,4,2016
+13,Iona,MAAC,22,10,2016
+14,Fresno State,Mountain West,25,9,2016
+15,Middle Tennessee,C-USA,24,9,2016
+16,Hampton,MEAC,21,10,2016
+1,Villanova,Big East,31,3,2017
+2,Duke,ACC,27,8,2017
+3,Baylor,Big 12,25,7,2017
+4,Florida,SEC,24,8,2017
+5,Virginia,ACC,22,10,2017
+6,SMU,American,30,4,2017
+7,South Carolina,SEC,22,10,2017
+8,Wisconsin,Big Ten,25,9,2017
+9,Virginia Tech,ACC,22,10,2017
+10,Marquette,Big East,19,12,2017
+11,Providence,Big East,20,12,2017
+12,UNC Wilmington,CAA,29,5,2017
+13,East Tennessee State,Southern,27,7,2017
+14,New Mexico State,WAC,28,5,2017
+15,Troy,Sun Belt,22,14,2017
+16,Mount St. Mary's,NEC,19,15,2017
+1,Gonzaga,WCC,32,1,2017
+2,Arizona,Pac-12,30,4,2017
+3,Florida State,ACC,25,8,2017
+4,West Virginia,Big 12,26,8,2017
+5,Notre Dame,ACC,25,9,2017
+6,Maryland,Big Ten,24,8,2017
+7,Saint Mary's,WCC,28,4,2017
+8,Northwestern,Big Ten,23,11,2017
+9,Vanderbilt,SEC,19,15,2017
+10,VCU,Atlantic 10,26,8,2017
+11,Xavier,Big East,21,13,2017
+12,Princeton,Ivy League,23,6,2017
+13,Bucknell,Patriot,26,8,2017
+14,Florida Gulf Coast,Atlantic Sun,26,7,2017
+15,North Dakota,Big Sky,22,9,2017
+16,South Dakota State,Summit League,18,16,2017
+1,Kansas,Big 12,28,4,2017
+2,Louisville,ACC,24,8,2017
+3,Oregon,Pac-12,29,5,2017
+4,Purdue,Big Ten,25,7,2017
+5,Iowa State,Big 12,23,10,2017
+6,Creighton,Big East,25,9,2017
+7,Michigan,Big Ten,24,11,2017
+8,Miami (FL),ACC,21,11,2017
+9,Michigan State,Big Ten,19,14,2017
+10,Oklahoma State,Big 12,20,12,2017
+11,Rhode Island,Atlantic 10,24,9,2017
+12,Nevada,Mountain West,28,6,2017
+13,Vermont,America East,29,5,2017
+14,Iona,MAAC,22,12,2017
+15,Jacksonville State,Ohio Valley,20,14,2017
+16,North Carolina Central,MEAC,25,8,2017
+1,North Carolina,ACC,27,7,2017
+2,Kentucky,SEC,29,5,2017
+3,UCLA,Pac-12,29,4,2017
+4,Butler,Big East,23,8,2017
+5,Minnesota,Big Ten,24,9,2017
+6,Cincinnati,American,29,5,2017
+7,Dayton,Atlantic 10,24,7,2017
+8,Arkansas,SEC,25,9,2017
+9,Seton Hall,Big East,21,11,2017
+10,Wichita State,Missouri Valley,30,4,2017
+11,Kansas State,Big 12,20,13,2017
+12,Middle Tennessee,Conference USA,30,4,2017
+13,Winthrop,Big South,26,6,2017
+14,Kent State,MAC,22,13,2017
+15,Northern Kentucky,Horizon,24,10,2017
+16,Texas Southern,SWAC,23,11,2017
+1,Virginia,ACC,31,2,2018
+2,Cincinnati,American,30,4,2018
+3,Tennessee,SEC,25,8,2018
+4,Arizona,Pac-12,27,7,2018
+5,Kentucky,SEC,24,10,2018
+6,Miami (FL),ACC,22,9,2018
+7,Nevada,Mountain West,27,7,2018
+8,Creighton,Big East,21,11,2018
+9,Kansas State,Big 12,22,11,2018
+10,Texas,Big 12,19,14,2018
+11,Loyola–Chicago,Missouri Valley,28,5,2018
+12,Davidson,Atlantic 10,21,11,2018
+13,Buffalo,MAC,26,8,2018
+14,Wright State,Horizon,25,9,2018
+15,Georgia State,Sun Belt,24,10,2018
+16,UMBC,America East,24,10,2018
+1,Xavier,Big East,28,5,2018
+2,North Carolina,ACC,25,10,2018
+3,Michigan,Big Ten,28,7,2018
+4,Gonzaga,WCC,30,4,2018
+5,Ohio State,Big Ten,24,8,2018
+6,Houston,American,26,7,2018
+7,Texas A&M,SEC,20,12,2018
+8,Missouri,SEC,20,12,2018
+9,Florida State,ACC,20,11,2018
+10,Providence,Big East,21,13,2018
+11,San Diego State,Mountain West,22,10,2018
+12,South Dakota State,Summit League,28,6,2018
+13,UNC Greensboro,Southern,27,7,2018
+14,Montana,Big Sky,26,7,2018
+15,Lipscomb,Atlantic Sun,23,9,2018
+16,North Carolina Central,MEAC,19,15,2018
+1,Villanova,Big East,30,4,2018
+2,Purdue,Big Ten,28,6,2018
+3,Texas Tech,Big 12,24,9,2018
+4,Wichita State,American,25,7,2018
+5,West Virginia,Big 12,24,10,2018
+6,Florida,SEC,20,12,2018
+7,Arkansas,SEC,23,11,2018
+8,Virginia Tech,ACC,21,11,2018
+9,Alabama,SEC,19,15,2018
+10,Butler,Big East,20,13,2018
+11,St. Bonaventure,Atlantic 10,25,7,2018
+12,Murray State,Ohio Valley,26,5,2018
+13,Marshall,Conference USA,24,10,2018
+14,Stephen F. Austin,Southland,28,6,2018
+15,Cal State Fullerton,Big West,20,11,2018
+16,LIU Brooklyn,NEC,18,16,2018
+1,Kansas,Big 12,27,7,2018
+2,Duke,ACC,26,7,2018
+3,Michigan State,Big Ten,29,4,2018
+4,Auburn,SEC,25,7,2018
+5,Clemson,ACC,23,9,2018
+6,TCU,Big 12,21,11,2018
+7,Rhode Island,Atlantic 10,25,7,2018
+8,Seton Hall,Big East,21,11,2018
+9,NC State,ACC,21,11,2018
+10,Oklahoma,Big 12,18,13,2018
+11,Arizona State,Pac-12,20,11,2018
+12,New Mexico State,WAC,28,5,2018
+13,College of Charleston,CAA,26,7,2018
+14,Bucknell,Patriot,25,9,2018
+15,Iona,MAAC,20,13,2018
+16,Penn,Ivy League,24,8,2018
+1,Duke,ACC,29,5,2019
+2,Michigan State,Big Ten,28,6,2019
+3,LSU,SEC,26,6,2019
+4,Virginia Tech,ACC,24,8,2019
+5,Mississippi State,SEC,23,10,2019
+6,Maryland,Big Ten,22,10,2019
+7,Louisville,ACC,20,13,2019
+8,VCU,Atlantic 10,25,7,2019
+9,UCF,American,23,8,2019
+10,Minnesota,Big Ten,21,13,2019
+11,Temple,American,23,9,2019
+12,Liberty,ASUN,28,6,2019
+13,Saint Louis,Atlantic 10,23,12,2019
+14,Yale,Ivy,22,7,2019
+15,Bradley,Missouri Valley,20,14,2019
+16,North Carolina Central,MEAC,18,15,2019
+1,Gonzaga,West Coast,30,3,2019
+2,Michigan,Big Ten,28,6,2019
+3,Texas Tech,Big 12,26,6,2019
+4,Florida State,ACC,27,7,2019
+5,Marquette,Big East,24,9,2019
+6,Buffalo,MAC,31,3,2019
+7,Nevada,Mountain West,29,4,2019
+8,Syracuse,ACC,20,13,2019
+9,Baylor,Big 12,19,13,2019
+10,Florida,SEC,19,15,2019
+11,Arizona State,Pac-12,22,10,2019
+12,Murray State,Ohio Valley,27,4,2019
+13,Vermont,America East,27,6,2019
+14,Northern Kentucky,Horizon,26,8,2019
+15,Montana,Big Sky,26,8,2019
+16,Fairleigh Dickinson,Northeast,20,13,2019
+1,Virginia,ACC,29,3,2019
+2,Tennessee,SEC,29,5,2019
+3,Purdue,Big Ten,23,9,2019
+4,Kansas State,Big 12,25,8,2019
+5,Wisconsin,Big Ten,23,10,2019
+6,Villanova,Big East,25,9,2019
+7,Cincinnati,American,28,6,2019
+8,Ole Miss,SEC,20,12,2019
+9,Oklahoma,Big 12,19,13,2019
+10,Iowa,Big Ten,22,11,2019
+11,Saint Mary's,West Coast,22,11,2019
+12,Oregon,Pac-12,23,12,2019
+13,UC Irvine,Big West,30,5,2019
+14,Old Dominion,C-USA,26,8,2019
+15,Colgate,Patriot,24,10,2019
+16,Gardner–Webb,Big South,23,11,2019
+1,North Carolina,ACC,27,6,2019
+2,Kentucky,SEC,27,6,2019
+3,Houston,American,31,3,2019
+4,Kansas,Big 12,25,9,2019
+5,Auburn,SEC,26,9,2019
+6,Iowa State,Big 12,23,11,2019
+7,Wofford,Southern,29,4,2019
+8,Utah State,Mountain West,28,6,2019
+9,Washington,Pac-12,26,8,2019
+10,Seton Hall,Big East,20,13,2019
+11,Ohio State,Big Ten,19,14,2019
+12,New Mexico State,WAC,30,4,2019
+13,Northeastern,CAA,23,10,2019
+14,Georgia State,Sun Belt,24,9,2019
+15,Abilene Christian,Southland,27,6,2019
+16,Iona,MAAC,17,15,2019
+1,Gonzaga,West Coast,26,0,2021
+2,Iowa,Big Ten,21,8,2021
+3,Kansas,Big 12,20,8,2021
+4,Virginia,ACC,18,6,2021
+5,Creighton,Big East,20,8,2021
+6,USC,Pac-12,22,7,2021
+7,Oregon,Pac-12,20,6,2021
+8,Oklahoma,Big 12,15,10,2021
+9,Missouri,SEC,16,9,2021
+10,VCU,Atlantic 10,19,7,2021
+11,Wichita State,American,16,5,2021
+12,UC Santa Barbara,Big West,22,4,2021
+13,Ohio,MAC,16,7,2021
+14,Eastern Washington,Big Sky,16,7,2021
+15,Grand Canyon,WAC,17,6,2021
+16,Norfolk State,MEAC,16,7,2021
+1,Michigan,Big Ten,20,4,2021
+2,Alabama,SEC,24,6,2021
+3,Texas,Big 12,19,7,2021
+4,Florida State,ACC,16,6,2021
+5,Colorado,Pac-12,22,8,2021
+6,BYU,West Coast,20,6,2021
+7,UConn,Big East,15,7,2021
+8,LSU,SEC,18,9,2021
+9,St. Bonaventure,Atlantic 10,16,4,2021
+10,Maryland,Big Ten,16,13,2021
+11,Michigan State,Big Ten,15,12,2021
+12,Georgetown,Big East,13,12,2021
+13,UNC Greensboro,Southern,21,8,2021
+14,Abilene Christian,Southland,23,4,2021
+15,Iona,MAAC,12,5,2021
+16,Mount St. Mary's,Northeast,12,10,2021
+1,Baylor,Big 12,22,2,2021
+2,Ohio State,Big Ten,21,9,2021
+3,Arkansas,SEC,22,6,2021
+4,Purdue,Big Ten,18,9,2021
+5,Villanova,Big East,16,6,2021
+6,Texas Tech,Big 12,17,10,2021
+7,Florida,SEC,14,9,2021
+8,North Carolina,ACC,18,10,2021
+9,Wisconsin,Big Ten,17,12,2021
+10,Virginia Tech,ACC,15,6,2021
+11,Utah State,Mountain West,20,8,2021
+12,Winthrop,Big South,23,1,2021
+13,North Texas,C-USA,17,9,2021
+14,Colgate,Patriot,14,1,2021
+15,Oral Roberts,Summit,16,10,2021
+16,Hartford,America East,15,8,2021
+1,Illinois,Big Ten,23,6,2021
+2,Houston,American,24,3,2021
+3,West Virginia,Big 12,18,9,2021
+4,Oklahoma State,Big 12,20,8,2021
+5,Tennessee,SEC,18,8,2021
+6,San Diego State,Mountain West,23,4,2021
+7,Clemson,ACC,16,7,2021
+8,Loyola Chicago,Missouri Valley,24,4,2021
+9,Georgia Tech,ACC,17,8,2021
+10,Rutgers,Big Ten,15,11,2021
+11,Syracuse,ACC,16,9,2021
+12,Oregon State,Pac-12,17,12,2021
+13,Liberty,Atlantic Sun,23,5,2021
+14,Morehead State,Ohio Valley,23,7,2021
+15,Cleveland State,Horizon,19,7,2021
+16,Drexel,Colonial,12,7,2021
+1,Gonzaga,West Coast,26,3,2022
+2,Duke,ACC,28,6,2022
+3,Texas Tech,Big 12,25,9,2022
+4,Arkansas,SEC,25,8,2022
+5,UConn,Big East,23,9,2022
+6,Alabama,SEC,19,13,2022
+7,Michigan State,Big Ten,22,12,2022
+8,Boise State,Mountain West,27,7,2022
+9,Memphis,American,21,10,2022
+10,Davidson,Atlantic 10,27,6,2022
+11,Rutgers,Big Ten,18,13,2022
+12,New Mexico State,WAC,26,6,2022
+13,Vermont,America East,28,5,2022
+14,Montana State,Big Sky,27,7,2022
+15,Cal State Fullerton,Big West,21,10,2022
+16,Georgia State,Sun Belt,18,10,2022
+1,Baylor,Big 12,26,6,2022
+2,Kentucky,SEC,26,7,2022
+3,Purdue,Big Ten,27,7,2022
+4,UCLA,Pac–12,25,7,2022
+5,Saint Mary's,West Coast,25,7,2022
+6,Texas,Big 12,21,11,2022
+7,Murray State,Ohio Valley,30,2,2022
+8,North Carolina,ACC,24,9,2022
+9,Marquette,Big East,19,12,2022
+10,San Francisco,West Coast,24,9,2022
+11,Virginia Tech,ACC,23,12,2022
+12,Wyoming,Mountain West,25,8,2022
+13,Akron,MAC,24,9,2022
+14,Yale,Ivy,19,11,2022
+15,Saint Peter's,MAAC,19,11,2022
+16,Norfolk State,MEAC,24,6,2022
+1,Arizona,Pac–12,31,3,2022
+2,Villanova,Big East,26,7,2022
+3,Tennessee,SEC,26,7,2022
+4,Illinois,Big Ten,22,9,2022
+5,Houston,American,29,5,2022
+6,Colorado State,Mountain West,25,5,2022
+7,Ohio State,Big Ten,19,11,2022
+8,Seton Hall,Big East,21,10,2022
+9,TCU,Big 12,20,12,2022
+10,Loyola Chicago,Missouri Valley,25,7,2022
+11,Michigan,Big Ten,17,14,2022
+12,UAB,C-USA,27,7,2022
+13,Chattanooga,Southern,27,7,2022
+14,Longwood,Big South,26,6,2022
+15,Delaware,Colonial,22,12,2022
+16,Wright State,Horizon,21,13,2022
+1,Kansas,Big 12,28,6,2022
+2,Auburn,SEC,27,5,2022
+3,Wisconsin,Big Ten,24,7,2022
+4,Providence,Big East,25,5,2022
+5,Iowa,Big Ten,26,9,2022
+6,LSU,SEC,22,11,2022
+7,USC,Pac–12,26,7,2022
+8,San Diego State,Mountain West,23,8,2022
+9,Creighton,Big East,22,11,2022
+10,Miami (FL),ACC,23,10,2022
+11,Iowa State,Big 12,20,12,2022
+12,Richmond,Atlantic 10,23,12,2022
+13,South Dakota State,Summit,30,4,2022
+14,Colgate,Patriot,23,11,2022
+15,Jacksonville State,ASUN,21,10,2022
+16,Texas Southern,SWAC,18,12,2022
+1,Alabama,SEC,29,5,2023
+2,Arizona,Pac–12,28,6,2023
+3,Baylor,Big 12,22,10,2023
+4,Virginia,ACC,25,7,2023
+5,San Diego State,Mountain West,27,6,2023
+6,Creighton,Big East,21,12,2023
+7,Missouri,SEC,24,9,2023
+8,Maryland,Big Ten,21,12,2023
+9,West Virginia,Big 12,19,14,2023
+10,Utah State,Mountain West,26,8,2023
+11,North Carolina State,ACC,23,10,2023
+12,Charleston,Colonial,31,3,2023
+13,Furman,Southern,27,7,2023
+14,UC Santa Barbara,Big West,27,7,2023
+15,Princeton,Ivy,21,8,2023
+16,Texas A&M–Corpus Christi,Southland,23,10,2023
+1,Purdue,Big Ten,29,5,2023
+2,Marquette,Big East,28,6,2023
+3,Kansas State,Big 12,23,9,2023
+4,Tennessee,SEC,23,10,2023
+5,Duke,ACC,26,8,2023
+6,Kentucky,SEC,21,11,2023
+7,Michigan State,Big Ten,19,12,2023
+8,Memphis,American,26,8,2023
+9,Florida Atlantic,C-USA,31,3,2023
+10,USC,Pac–12,22,10,2023
+11,Providence,Big East,21,11,2023
+12,Oral Roberts,Summit,30,4,2023
+13,Louisiana,Sun Belt,26,7,2023
+14,Montana State,Big Sky,25,9,2023
+15,Vermont,America East,23,10,2023
+16,Texas Southern,SWAC,14,20,2023
+1,Houston,American,31,3,2023
+2,Texas,Big 12,26,8,2023
+3,Xavier,Big East,25,9,2023
+4,Indiana,Big Ten,22,11,2023
+5,Miami (FL),ACC,25,7,2023
+6,Iowa State,Big 12,19,13,2023
+7,Texas A&M,SEC,25,9,2023
+8,Iowa,Big Ten,19,13,2023
+9,Auburn,SEC,20,12,2023
+10,Penn State,Big Ten,22,13,2023
+11,Mississippi State,SEC,21,12,2023
+12,Drake,Missouri Valley,27,7,2023
+13,Kent State,MAC,28,6,2023
+14,Kennesaw State,ASUN,26,8,2023
+15,Colgate,Patriot,26,8,2023
+16,Northern Kentucky,Horizon,22,12,2023
+1,Kansas,Big 12,27,7,2023
+2,UCLA,Pac–12,29,5,2023
+3,Gonzaga,West Coast,28,5,2023
+4,UConn,Big East,25,8,2023
+5,Saint Mary's,West Coast,26,7,2023
+6,TCU,Big 12,21,12,2023
+7,Northwestern,Big Ten,21,11,2023
+8,Arkansas,SEC,20,13,2023
+9,Illinois,Big Ten,20,12,2023
+10,Boise State,Mountain West,24,9,2023
+11,Arizona State,Pac–12,22,12,2023
+12,VCU,Atlantic 10,27,7,2023
+13,Iona,MAAC,27,7,2023
+14,Grand Canyon,WAC,24,11,2023
+15,UNC Asheville,Big South,27,7,2023
+16,Howard,MEAC,22,12,2023
+1,UConn,Big East,31,3,2024
+2,Iowa State,Big 12,27,7,2024
+3,Illinois,Big Ten,26,8,2024
+4,Auburn,SEC,27,7,2024
+5,San Diego State,Mountain West,24,10,2024
+6,BYU,Big 12,23,10,2024
+7,Washington State,Pac-12,24,9,2024
+8,Florida Atlantic,American,25,8,2024
+9,Northwestern,Big Ten,21,11,2024
+10,Drake,Missouri Valley,28,6,2024
+11,Duquesne,Atlantic 10,24,11,2024
+12,UAB,American,23,11,2024
+13,Yale,Ivy,22,9,2024
+14,Morehead State,Ohio Valley,26,8,2024
+15,South Dakota State,Summit,22,12,2024
+16,Stetson,ASUN,22,12,2024
+1,North Carolina,ACC,27,7,2024
+2,Arizona,Pac-12,25,8,2024
+3,Baylor,Big 12,23,10,2024
+4,Alabama,SEC,21,11,2024
+5,Saint Mary's,WCC,26,7,2024
+6,Clemson,ACC,21,11,2024
+7,Dayton,Atlantic 10,26,7,2024
+8,Mississippi State,SEC,21,13,2024
+9,Michigan State,Big Ten,19,14,2024
+10,Nevada,Mountain West,26,7,2024
+11,New Mexico,Mountain West,26,9,2024
+12,Grand Canyon,WAC,29,4,2024
+13,Charleston,CAA,27,7,2024
+14,Colgate,Patriot,25,9,2024
+15,Long Beach State,Big West,21,14,2024
+16,Howard,MEAC,18,16,2024
+1,Houston,Big 12,30,4,2024
+2,Marquette,Big East,25,9,2024
+3,Kentucky,SEC,23,9,2024
+4,Duke,ACC,24,8,2024
+5,Wisconsin,Big Ten,22,13,2024
+6,Texas Tech,Big 12,23,10,2024
+7,Florida,SEC,24,11,2024
+8,Nebraska,Big Ten,23,10,2024
+9,Texas A&M,SEC,20,14,2024
+10,Boise State,Mountain West,22,10,2024
+11,NC State,ACC,22,14,2024
+12,James Madison,Sun Belt,31,3,2024
+13,Vermont,America East,28,6,2024
+14,Oakland,Horizon,23,11,2024
+15,Western Kentucky,C-USA,22,11,2024
+16,Longwood,Big South,21,13,2024
+1,Purdue,Big Ten,29,4,2024
+2,Tennessee,SEC,24,8,2024
+3,Creighton,Big East,23,9,2024
+4,Kansas,Big 12,22,10,2024
+5,Gonzaga,West Coast,25,7,2024
+6,South Carolina,SEC,26,7,2024
+7,Texas,Big 12,20,12,2024
+8,Utah State,Mountain West,27,6,2024
+9,TCU,Big 12,21,12,2024
+10,Virginia,ACC,23,10,2024
+11,Oregon,Pac-12,23,11,2024
+12,McNeese,Southland,30,3,2024
+13,Samford,Southern,29,5,2024
+14,Akron,MAC,24,10,2024
+15,Saint Peter's,MAAC,19,13,2024
+16,Montana State,Big Sky,17,17,2024
