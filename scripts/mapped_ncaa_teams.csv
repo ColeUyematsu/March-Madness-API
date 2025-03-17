@@ -4,7 +4,7 @@ Air Force,air-force
 Akron,akron
 Alabama,alabama
 Alabama State,alabama-state
-Albany,albany
+Albany,albany-ny
 Alcorn State,alcorn-state
 American,american
 Appalachian State,appalachian-state
@@ -12,22 +12,22 @@ Arizona,arizona
 Arizona State,arizona-state
 Arkansas,arkansas
 Arkansas State,arkansas-state
-Arkansas–Pine Bluff,arkansas–pine-bluff
+Arkansas–Pine Bluff,arkansas-pine-bluff
 Auburn,auburn
 Austin Peay,austin-peay
-BYU,ball-state
-Ball State,baylor
-Baylor,belmont
-Belmont,binghamton
-Binghamton,boise-state
-Boise State,boston-college
-Boston College,boston-university
-Boston University,bradley
-Bradley,brigham-young
-Brigham Young,bucknell
-Bucknell,buffalo
-Buffalo,butler
-Butler,brigham-young
+BYU,brigham-young
+Ball State,ball-state
+Baylor,baylor
+Belmont,belmont
+Binghamton,binghamton
+Boise State,boise-state
+Boston College,boston-college
+Boston University,boston-university
+Bradley,bradley
+Brigham Young,brigham-young
+Bucknell,bucknell
+Buffalo,buffalo
+Butler,butler
 Cal Poly,cal-poly
 Cal State Bakersfield,cal-state-bakersfield
 Cal State Fullerton,cal-state-fullerton
@@ -35,11 +35,11 @@ Cal State Northridge,cal-state-northridge
 California,california
 Campbell,campbell
 Canisius,canisius
-Central Connecticut,central-connecticut
+Central Connecticut,central-connecticut-state
 Central Connecticut State,central-connecticut-state
 Central Florida,central-florida
 Central Michigan,central-michigan
-Charleston,charleston
+Charleston,college-of-charleston
 Charleston Southern,charleston-southern
 Charlotte,charlotte
 Chattanooga,chattanooga
@@ -57,10 +57,10 @@ Cornell,cornell
 Creighton,creighton
 Davidson,davidson
 Dayton,dayton
-DePaul,delaware
-Delaware,delaware-state
-Delaware State,depaul
-Detroit,detroit
+DePaul,depaul
+Delaware,delaware
+Delaware State,delaware-state
+Detroit,detroit-mercy
 Detroit Mercy,detroit-mercy
 Drake,drake
 Drexel,drexel
@@ -73,18 +73,18 @@ Eastern Kentucky,eastern-kentucky
 Eastern Michigan,eastern-michigan
 Eastern Washington,eastern-washington
 Evansville,evansville
-FIU,fairfield
-Fairfield,fairleigh-dickinson
-Fairleigh Dickinson,florida-international
+FIU,florida-international
+Fairfield,fairfield
+Fairleigh Dickinson,fairleigh-dickinson
 Florida,florida
-Florida A&M,florida-a&m
+Florida A&M,florida-am
 Florida Atlantic,florida-atlantic
 Florida Gulf Coast,florida-gulf-coast
 Florida State,florida-state
 Fordham,fordham
 Fresno State,fresno-state
 Furman,furman
-Gardner–Webb,gardner–webb
+Gardner–Webb,gardner-webb
 George Mason,george-mason
 George Washington,george-washington
 Georgetown,georgetown
@@ -103,15 +103,15 @@ Hofstra,hofstra
 Holy Cross,holy-cross
 Houston,houston
 Howard,howard
-IUPUI,illinois
-Illinois,illinois-state
-Illinois State,illinois–chicago
-Illinois–Chicago,indiana
-Indiana,indiana-state
-Indiana State,iona
-Iona,iowa
-Iowa,iowa-state
-Iowa State,iupui
+IUPUI,iupui
+Illinois,illinois
+Illinois State,illinois-state
+Illinois–Chicago,illinois-chicago
+Indiana,indiana
+Indiana State,indiana-state
+Iona,iona
+Iowa,iowa
+Iowa State,iowa-state
 Jackson State,jackson-state
 Jacksonville State,jacksonville-state
 James Madison,james-madison
@@ -120,42 +120,42 @@ Kansas State,kansas-state
 Kennesaw State,kennesaw-state
 Kent State,kent-state
 Kentucky,kentucky
-LIU Brooklyn,la-salle
-LIU-Brooklyn,lafayette
-LSU,lamar
-La Salle,lehigh
-Lafayette,liberty
-Lamar,lipscomb
-Lehigh,little-rock
-Liberty,liu-brooklyn
-Lipscomb,liu-brooklyn
-Little Rock,long-beach-state
-Long Beach State,long-island
-Long Island,longwood
-Longwood,louisiana
+LIU Brooklyn,long-island-university
+LIU-Brooklyn,long-island-university
+LSU,louisiana-state
+La Salle,la-salle
+Lafayette,lafayette
+Lamar,lamar
+Lehigh,lehigh
+Liberty,liberty
+Lipscomb,lipscomb
+Little Rock,arkansas-little-rock
+Long Beach State,long-beach-state
+Long Island,long-island-university
+Longwood,longwood
 Louisiana,louisiana-lafayette
 Louisiana Tech,louisiana-tech
-Louisiana-Lafayette,louisiana–lafayette
-Louisiana–Lafayette,louisville
-Louisville,loyola
-Loyola,loyola-(md)
-Loyola (MD),loyola-chicago
-Loyola Chicago,loyola–chicago
-Loyola–Chicago,louisiana-state
+Louisiana-Lafayette,louisiana-lafayette
+Louisiana–Lafayette,louisiana-lafayette
+Louisville,louisville
+Loyola,loyola-md
+Loyola (MD),loyola-md
+Loyola Chicago,loyola-il
+Loyola–Chicago,loyola-il
 Manhattan,manhattan
 Marquette,marquette
 Marshall,marshall
 Maryland,maryland
 Massachusetts,massachusetts
-McNeese,mcneese
+McNeese,mcneese-state
 McNeese State,mcneese-state
 Memphis,memphis
-Memphis State,memphis-state
+Memphis State,memphis
 Mercer,mercer
-Miami,miami
-Miami (FL),miami-(fl)
-Miami (OH),miami-(oh)
-Miami (Ohio),miami-(ohio)
+Miami,miami-fl
+Miami (FL),miami-fl
+Miami (OH),miami-oh
+Miami (Ohio),miami-oh
 Michigan,michigan
 Michigan State,michigan-state
 Middle Tennessee,middle-tennessee
@@ -170,10 +170,10 @@ Montana,montana
 Montana State,montana-state
 Morehead State,morehead-state
 Morgan State,morgan-state
-Mount St. Mary's,mount-st.-mary's
+Mount St. Mary's,mount-st-marys
 Murray State,murray-state
-NC State,navy
-Navy,north-carolina-state
+NC State,north-carolina-state
+Navy,navy
 Nebraska,nebraska
 Nevada,nevada
 New Mexico,new-mexico
@@ -183,7 +183,7 @@ Niagara,niagara
 Nicholls State,nicholls-state
 Norfolk State,norfolk-state
 North Carolina,north-carolina
-North Carolina A&T,north-carolina-a&t
+North Carolina A&T,north-carolina-at
 North Carolina Central,north-carolina-central
 North Carolina State,north-carolina-state
 North Dakota,north-dakota
@@ -206,19 +206,19 @@ Ohio State,ohio-state
 Oklahoma,oklahoma
 Oklahoma State,oklahoma-state
 Old Dominion,old-dominion
-Ole Miss,ole-miss
+Ole Miss,mississippi
 Oral Roberts,oral-roberts
 Oregon,oregon
 Oregon State,oregon-state
 Pacific,pacific
-Penn,penn
+Penn,pennsylvania
 Penn State,penn-state
 Pennsylvania,pennsylvania
 Pepperdine,pepperdine
 Pittsburgh,pittsburgh
 Portland,portland
 Portland State,portland-state
-Prairie View A&M,prairie-view-a&m
+Prairie View A&M,prairie-view
 Princeton,princeton
 Providence,providence
 Purdue,purdue
@@ -228,21 +228,21 @@ Richmond,richmond
 Rider,rider
 Robert Morris,robert-morris
 Rutgers,rutgers
-SMU,saint-francis-(pa)
-Saint Francis (PA),saint-joseph's
-Saint Joseph's,saint-louis
-Saint Louis,saint-mary's
-Saint Mary's,saint-peter's
-Saint Peter's,sam-houston-state
-Sam Houston State,samford
-Samford,san-diego
-San Diego,san-diego-state
-San Diego State,san-francisco
-San Francisco,san-jose-state
-San Jose State,santa-clara
-Santa Clara,seton-hall
-Seton Hall,siena
-Siena,southern-methodist
+SMU,southern-methodist
+Saint Francis (PA),saint-francis-pa
+Saint Joseph's,saint-josephs
+Saint Louis,saint-louis
+Saint Mary's,saint-marys-ca
+Saint Peter's,saint-peters
+Sam Houston State,sam-houston-state
+Samford,samford
+San Diego,san-diego
+San Diego State,san-diego-state
+San Francisco,san-francisco
+San Jose State,san-jose-state
+Santa Clara,santa-clara
+Seton Hall,seton-hall
+Siena,siena
 South Alabama,south-alabama
 South Carolina,south-carolina
 South Carolina State,south-carolina-state
@@ -254,55 +254,57 @@ Southern,southern
 Southern Illinois,southern-illinois
 Southern Miss,southern-mississippi
 Southern Utah,southern-utah
-Southwest Missouri State,southwest-missouri-state
-Southwest Texas State,southwest-texas-state
-Southwestern Louisiana,southwestern-louisiana
-St. Bonaventure,st.-bonaventure
+Southwest Missouri State,missouri-state
+Southwest Texas State,texas-state
+Southwestern Louisiana,louisiana-lafayette
+St. Bonaventure,st-bonaventure
 St. John's,st-johns-ny
 Stanford,stanford
-Stephen F. Austin,stephen-f.-austin
+Stephen F. Austin,stephen-f-austin
 Stetson,stetson
 Stony Brook,stony-brook
 Syracuse,syracuse
-TCU,tcu
+TCU,texas-christian
 Temple,temple
 Tennessee,tennessee
 Tennessee State,tennessee-state
 Texas,texas
-Texas A&M,texas-a&m
-Texas A&M–Corpus Christi,texas-a&m–corpus-christi
+Texas A&M,texas-am
+Texas A&M–Corpus Christi,texas-am-corpus-christi
 Texas Southern,texas-southern
 Texas Tech,texas-tech
-Texas–Arlington,texas–arlington
+Texas–Arlington,texas-arlington
 Towson State,towson
 Troy,troy
-Troy State,troy-state
+Troy State,troy
 Tulane,tulane
 Tulsa,tulsa
 UAB,alabama-birmingham
-UC Irvine,uc-irvine
-UC Santa Barbara,uc-santa-barbara
+UC Irvine,california-irvine
+UC Santa Barbara,california-santa-barbara
 UCF,central-florida
 UCLA,ucla
 UConn,connecticut
 UIC,illinois-chicago
-UMBC,massachusetts
-UMass,maryland-baltimore-county
+UMBC,maryland-baltimore-county
+UMass,massachusetts
 UNC Asheville,north-carolina-asheville
 UNC Charlotte,charlotte
 UNC Greensboro,north-carolina-greensboro
 UNC Wilmington,north-carolina-wilmington
 UNLV,nevada-las-vegas
 USC,southern-california
-UTEP,utah
-UTSA,utah-state
-UW–Green Bay,texas-el-paso
-UW–Milwaukee,texas-san-antonio
-Utah,green-bay
-Utah State,milwaukee
-VCU,valparaiso
-Valparaiso,vanderbilt
-Vanderbilt,virginia-commonwealth
+UTEP,texas-el-paso
+UTSA,texas-san-antonio
+UW–Green Bay,green-bay
+UW-Green Bay,green-bay
+UW–Milwaukee,milwaukee
+UW-Milwaukee,milwaukee
+Utah,utah
+Utah State,utah-state
+VCU,virginia-commonwealth
+Valparaiso,valparaiso
+Vanderbilt,vanderbilt
 Vermont,vermont
 Villanova,villanova
 Virginia,virginia
