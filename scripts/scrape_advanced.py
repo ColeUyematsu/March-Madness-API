@@ -38,6 +38,52 @@ def safe_float(value):
         return float(value) if value.strip() else None  # Convert if non-empty, else None
     except ValueError:
         return None  # Handle non-numeric cases
+    
+def extract_ncaa_results(summary_div):
+    """
+    Extracts all NCAA Tournament wins and losses correctly, ensuring that the last game is always a loss.
+    """
+    wins = []
+    losses = []
+
+    # Locate the NCAA Tournament paragraph
+    ncaa_p = None
+    for p in summary_div.find_all("p"):
+        if "NCAA Tournament" in p.text:
+            ncaa_p = p
+            break
+    
+    if not ncaa_p:
+        return None, None  # No NCAA data found
+
+    # Extract all lines within the paragraph
+    lines = ncaa_p.decode_contents().split("<br>")
+
+    for line in lines:
+        # Use BeautifulSoup to parse HTML content within the line
+        line_soup = BeautifulSoup(line, "html.parser")
+        text = line_soup.get_text(" ", strip=True)  # Extract text, preserving spacing
+
+        # Find all opponent links inside the line
+        team_links = line_soup.find_all("a", href=re.compile("/cbb/schools/"))
+
+        for team_link in team_links:
+            opponent = team_link.text.strip()
+            opponent = re.sub(r"#\d+\s+", "", opponent)  # Remove any seed numbers
+
+            if "Won" in text and "versus" in text:
+                wins.append(opponent)
+            elif "Lost" in text and "versus" in text:
+                losses.append(opponent)
+
+    # Ensure the last team is recorded as a loss if applicable
+    if len(wins) == 6:
+        return ", ".join(wins), None
+    elif wins and not losses:
+        # Move the last win into the loss column
+        losses.append(wins.pop())
+
+    return ", ".join(wins) if wins else None, ", ".join(losses) if losses else None
 
 # Function to scrape per-game and advanced stats from Sports-Reference
 def scrape_team_stats(team, year):
@@ -95,6 +141,9 @@ def scrape_team_stats(team, year):
                     continue
                 summary_div = soup.find("div", {"data-template": "Partials/Teams/Summary"})
                 if summary_div:
+                    ncaa_wins, ncaa_losses = extract_ncaa_results(summary_div)
+                    stats["ncaa_wins"] = ncaa_wins
+                    stats["ncaa_loss"] = ncaa_losses
                     for p in summary_div.find_all("p"):
                         text = p.get_text(strip=True)
                         if "PS/G:" in text:
@@ -109,24 +158,7 @@ def scrape_team_stats(team, year):
                             stats["offensive_rating"] = safe_float(text.split("ORtg:")[-1].split(" ")[0])
                         elif "DRtg:" in text:
                             stats["defensive_rating"] = safe_float(text.split("DRtg:")[-1].split(" ")[0])
-                        elif "NCAA Tournament" in text:
-                            wins = []
-                            losses = []
-
-                            for line in text.split("<br>"):
-                                line = line.strip()
-                                if "Won" in line and "versus" in line:
-                                    match = re.search(r"Won.*?versus\s+#?\d*\s*([\w\s'-]+)", line)
-                                    if match:
-                                        wins.append(match.group(1).strip())
-
-                                elif "Lost" in line and "versus" in line:
-                                    match = re.search(r"Lost.*?versus\s+#?\d*\s*([\w\s'-]+)", line)
-                                    if match:
-                                        losses.append(match.group(1).strip())
-
-                            stats["ncaa_wins"] = ", ".join(wins) if wins else None
-                            stats["ncaa_losses"] = ", ".join(losses) if losses else None
+                        
                 # Identify the row labeled "Team" (ignoring "Opponent" and "Rank")
                 label = row.find("th").text.strip()
                 if label.lower() == "team":
@@ -162,38 +194,9 @@ def scrape_team_stats(team, year):
 
     return None
 
-# # **Process all teams**
-# all_stats = []
-# for index, row in teams_df.iterrows():
-#     team = row["team"]
-#     year = row["year"]
-
-#     print(f"\nFetching stats for {team} ({year})...")
-#     stats = scrape_team_stats(team, year)
-
-#     if stats:
-#         all_stats.append(stats)
-#     else:
-#         print("❌ No data found for", team, year)
-
-#     # Save progress every 50 teams
-#     if len(all_stats) % 50 == 0:
-#         pd.DataFrame(all_stats).to_csv("march_madness_with_stats_progress.csv", index=False)
-#         print(f"💾 Progress saved after {len(all_stats)} teams.")
-
-#     # Avoid getting blocked (random delay between 5-10 seconds)
-#     time.sleep(random.uniform(5, 10))
-
-# # Final save
-# stats_df = pd.DataFrame(all_stats)
-# stats_df.to_csv("march_madness_with_full_stats.csv", index=False)
-# print(f"\n✅ Final data saved to march_madness_with_full_stats.csv")
-
-# **Process 5 Random Teams**
+# **Process all teams**
 all_stats = []
-random_teams = teams_df.sample(n=5, random_state=42)  # Select 5 random teams
-
-for index, row in random_teams.iterrows():
+for index, row in teams_df.iterrows():
     team = row["team"]
     year = row["year"]
 
@@ -204,6 +207,11 @@ for index, row in random_teams.iterrows():
         all_stats.append(stats)
     else:
         print("❌ No data found for", team, year)
+
+    # Save progress every 50 teams
+    if len(all_stats) % 50 == 0:
+        pd.DataFrame(all_stats).to_csv("march_madness_with_stats_progress_with_wins.csv", index=False)
+        print(f"💾 Progress saved after {len(all_stats)} teams.")
 
     # Avoid getting blocked (random delay between 5-10 seconds)
     time.sleep(random.uniform(5, 10))
