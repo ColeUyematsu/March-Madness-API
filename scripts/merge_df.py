@@ -17,7 +17,7 @@ merged_df["win_pct"] = (merged_df["wins"] / (merged_df["wins"] + merged_df["loss
 
 # Define the new column order
 column_order = [
-    "team", "conference", "seed", "wins", "losses", "year", "win_pct",
+    "team", "year", "conference", "seed", "wins", "losses", "win_pct",
     "ps_per_game", "pa_per_game", "srs", "sos", "fg_per_game", "fga_per_game", "fg_pct", 
     "fg2_per_game", "fg2a_per_game", "fg2_pct", "fg3_per_game", "fg3a_per_game", "fg3_pct", 
     "ft_per_game", "fta_per_game", "ft_pct", "orb_per_game", "drb_per_game", "trb_per_game", 
