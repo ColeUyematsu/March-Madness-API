@@ -46,6 +46,7 @@ class MatchupHandler(BaseHandler):
 
         # Compute matchup differences
         matchup_stats = {
+            "year": team1.year,
             "teamA": team1.team,
             "teamB": team2.team,
             "diff_seed": (team1.seed or 0) - (team2.seed or 0),
@@ -90,6 +91,15 @@ async def get_matchups(
 ):
     """Fetch matchups from the database, optionally filtered by year."""
     matchups = await handler.get_matchups(start_year, end_year)
+    return {"matchups": matchups}
+
+@router.get("/year/{year}")
+async def get_matchups_by_year(
+    year: int,
+    handler: MatchupHandler = Depends()
+):
+    """Fetch matchups for a specific year."""
+    matchups = await handler.get_matchups(start_year=year, end_year=year)
     return {"matchups": matchups}
 
 @router.get("/2025")

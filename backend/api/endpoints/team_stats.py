@@ -10,11 +10,14 @@ router = APIRouter()
 class TeamStatsHandler(BaseHandler):
     """Handles database queries related to team stats."""
 
-    async def get_team_stats(self, year: int = None, team: str = None):
+    async def get_team_stats(self, start_year: int = None, end_year: int = None, team: str = None):
         query = select(TeamStats)
 
-        if year:
-            query = query.where(TeamStats.year == year)
+        if start_year and end_year:
+            query = query.where(TeamStats.year.between(start_year, end_year))
+        elif start_year:  # Allow single year selection
+            query = query.where(TeamStats.year == start_year)
+
         if team:
             query = query.where(TeamStats.team.ilike(f"%{team}%"))  # Case-insensitive search
 
@@ -32,10 +35,20 @@ class TeamStatsHandler(BaseHandler):
 
 @router.get("/")
 async def get_team_stats(
-    year: int = Query(None, description="Filter by Year"),
+    start_year: int = Query(None, description="Filter by Start Year"),
+    end_year: int = Query(None, description="Filter by End Year"),
     team: str = Query(None, description="Filter by Team Name"),
     handler: TeamStatsHandler = Depends()
 ):
-    """Fetch team stats from the database, optionally filtered by year or team."""
-    team_stats = await handler.get_team_stats(year, team)
+    """Fetch team stats from the database, optionally filtered by a range of years or team name."""
+    team_stats = await handler.get_team_stats(start_year, end_year, team)
+    return {"team_stats": team_stats}
+
+@router.get("/year/{year}")
+async def get_team_stats_by_year(
+    year: int,
+    handler: TeamStatsHandler = Depends()
+):
+    """Fetch team stats for a specific year."""
+    team_stats = await handler.get_team_stats(start_year=year, end_year=year)
     return {"team_stats": team_stats}
