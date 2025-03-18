@@ -1,0 +1,42 @@
+from sqlalchemy import Column, Integer, String, Float
+from sqlalchemy.orm import declarative_base
+
+Base = declarative_base()
+
+class TeamStats(Base):
+    __tablename__ = "team_stats"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)  
+    year = Column(Integer, nullable=False)
+    team = Column(String, nullable=False)
+    conference = Column(String, nullable=True)
+    seed = Column(Integer, nullable=True)
+    wins = Column(Integer, nullable=True)
+    losses = Column(Integer, nullable=True)
+    win_pct = Column(Float, nullable=False)
+    ps_per_game = Column(Float, nullable=False)  
+    pa_per_game = Column(Float, nullable=False)  
+    srs = Column(Float, nullable=False)  
+    sos = Column(Float, nullable=False)  
+    fg_per_game = Column(Float, nullable=False)
+    fga_per_game = Column(Float, nullable=False)
+    fg_pct = Column(Float, nullable=False)
+    fg2_per_game = Column(Float, nullable=False)
+    fg2a_per_game = Column(Float, nullable=False)
+    fg2_pct = Column(Float, nullable=False)
+    fg3_per_game = Column(Float, nullable=False)
+    fg3a_per_game = Column(Float, nullable=False)
+    fg3_pct = Column(Float, nullable=False)
+    ft_per_game = Column(Float, nullable=False)
+    fta_per_game = Column(Float, nullable=False)
+    ft_pct = Column(Float, nullable=False)
+    orb_per_game = Column(Float, nullable=False)  
+    drb_per_game = Column(Float, nullable=False)  
+    trb_per_game = Column(Float, nullable=False)  
+    ast_per_game = Column(Float, nullable=False)  
+    stl_per_game = Column(Float, nullable=False)  
+    blk_per_game = Column(Float, nullable=False)  
+    tov_per_game = Column(Float, nullable=False)  
+    pf_per_game = Column(Float, nullable=False)  
+    offensive_rating = Column(Float, nullable=False)  
+    defensive_rating = Column(Float, nullable=False)  
