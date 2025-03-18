@@ -4,18 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-fastapi = "*"
-uvicorn = "*"
-psycopg2-binary = "*"
-sqlalchemy = "*"
-dotenv = "*"
-pandas = "*"
-greenlet = "*"
+asyncpg = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.10"
-
-[envs]
-PYTHONPATH = "$(pwd)"

@@ -1,10 +1,12 @@
 from fastapi import FastAPI
-from app.api.v1.endpoints import items
+from backend.api.endpoints.matchups import router as matchups_router
 
 app = FastAPI()
 
+app.include_router(matchups_router, prefix="/matchups", tags=["matchups"])
+
 # Include API routes
-app.include_router(items.router, prefix="/items", tags=["items"])
+# use include_router on all routes we are using
 
 @app.on_event("shutdown")
 async def shutdown():
