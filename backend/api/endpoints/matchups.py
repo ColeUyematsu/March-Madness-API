@@ -3,6 +3,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 from backend.api.base import BaseHandler
 from backend.models.matchup import Matchup
+import json
 
 router = APIRouter()
 
@@ -15,7 +16,16 @@ class MatchupHandler(BaseHandler):
             query = query.where(Matchup.year.between(start_year, end_year))
             
         result = await self.db.execute(query)
-        return result.scalars().all()
+        matchups = result.scalars().all()
+
+        # Convert NaN values to None (JSON-compatible)
+        matchups_clean = json.loads(json.dumps([m.__dict__ for m in matchups], default=str))
+        for matchup in matchups_clean:
+            for key, value in matchup.items():
+                if isinstance(value, float) and (value != value):  # NaN check
+                    matchup[key] = None
+
+        return matchups_clean
 
 @router.get("/")
 async def get_matchups(
