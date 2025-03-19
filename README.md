@@ -30,8 +30,8 @@ Once team statistics were collected, we mapped game results by iterating through
 	•	Labeling the winner (1 for teamA win, 0 for teamB win).
 
 ## API Endpoints
-GET /matchups/?start_year={year}&end_year={year}
-GET /matchups/{year}
-GET /matchups/2025?teamA={team}&teamB={team}
-GET /stats/?start_year={year}&end_year={year}
-GET /stats/{year}
+- GET /matchups/?start_year={year}&end_year={year}
+- GET /matchups/{year}
+- GET /matchups/2025?teamA={team}&teamB={team}
+- GET /stats/?start_year={year}&end_year={year}
+- GET /stats/{year}
