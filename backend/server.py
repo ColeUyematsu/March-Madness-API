@@ -13,8 +13,3 @@ app.include_router(team_stats_router, prefix="/stats", tags=["team stats"])  # R
 @app.get("/")
 async def root():
     return "API running"
-
-@app.on_event("shutdown")
-async def shutdown():
-    from app.core.database import engine
-    await engine.dispose()
